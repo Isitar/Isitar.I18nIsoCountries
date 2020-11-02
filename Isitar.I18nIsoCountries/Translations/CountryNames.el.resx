@@ -1,0 +1,256 @@
+<root>
+	<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+	<resheader name="version"><value>1.3</value></resheader>
+	<resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+	<resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+	<data name="AF" xml:space="preserve"><value>Αφγανιστάν</value></data>
+	<data name="AL" xml:space="preserve"><value>Αλβανία</value></data>
+	<data name="DZ" xml:space="preserve"><value>Αλγερία</value></data>
+	<data name="AS" xml:space="preserve"><value>Αμερικανική Σαμόα</value></data>
+	<data name="AD" xml:space="preserve"><value>Ανδόρρα</value></data>
+	<data name="AO" xml:space="preserve"><value>Ανγκόλα</value></data>
+	<data name="AI" xml:space="preserve"><value>Ανγκουίλα</value></data>
+	<data name="AQ" xml:space="preserve"><value>Ανταρκτική</value></data>
+	<data name="AG" xml:space="preserve"><value>Αντίγκουα και Μπαρμπούντα</value></data>
+	<data name="AR" xml:space="preserve"><value>Αργεντινή</value></data>
+	<data name="AM" xml:space="preserve"><value>Αρμενία</value></data>
+	<data name="AW" xml:space="preserve"><value>Αρούμπα</value></data>
+	<data name="AU" xml:space="preserve"><value>Αυστραλία</value></data>
+	<data name="AT" xml:space="preserve"><value>Αυστρία</value></data>
+	<data name="AZ" xml:space="preserve"><value>Αζερμπαϊτζάν</value></data>
+	<data name="BS" xml:space="preserve"><value>Μπαχάμες</value></data>
+	<data name="BH" xml:space="preserve"><value>Μπαχρέιν</value></data>
+	<data name="BD" xml:space="preserve"><value>Μπανγκλαντές</value></data>
+	<data name="BB" xml:space="preserve"><value>Μπαρμπάντος</value></data>
+	<data name="BY" xml:space="preserve"><value>Λευκορωσία</value></data>
+	<data name="BE" xml:space="preserve"><value>Βέλγιο</value></data>
+	<data name="BZ" xml:space="preserve"><value>Μπελίζ</value></data>
+	<data name="BJ" xml:space="preserve"><value>Μπενίν</value></data>
+	<data name="BM" xml:space="preserve"><value>Βερμούδες</value></data>
+	<data name="BT" xml:space="preserve"><value>Μπουτάν</value></data>
+	<data name="BO" xml:space="preserve"><value>Βολιβία</value></data>
+	<data name="BA" xml:space="preserve"><value>Βοσνία και Ερζεγοβίνη</value></data>
+	<data name="BW" xml:space="preserve"><value>Μποτσουάνα</value></data>
+	<data name="BV" xml:space="preserve"><value>Μπουβέ</value></data>
+	<data name="BR" xml:space="preserve"><value>Βραζιλία</value></data>
+	<data name="IO" xml:space="preserve"><value>Βρετανικό Έδαφος Ινδικού Ωκεανού</value></data>
+	<data name="BN" xml:space="preserve"><value>Σουλτανάτο του Μπρουνέι</value></data>
+	<data name="BG" xml:space="preserve"><value>Βουλγαρία</value></data>
+	<data name="BF" xml:space="preserve"><value>Μπουρκίνα Φάσο</value></data>
+	<data name="BI" xml:space="preserve"><value>Μπουρουντί</value></data>
+	<data name="KH" xml:space="preserve"><value>Καμπότζη</value></data>
+	<data name="CM" xml:space="preserve"><value>Καμερούν</value></data>
+	<data name="CA" xml:space="preserve"><value>Καναδάς</value></data>
+	<data name="CV" xml:space="preserve"><value>Δημοκρατία του Πράσινου Ακρωτηρίου</value></data>
+	<data name="KY" xml:space="preserve"><value>Κέιμαν Νήσοι</value></data>
+	<data name="CF" xml:space="preserve"><value>Κεντροαφρικανική Δημοκρατίαc</value></data>
+	<data name="TD" xml:space="preserve"><value>Τσάντ</value></data>
+	<data name="CL" xml:space="preserve"><value>Χιλή</value></data>
+	<data name="CN" xml:space="preserve"><value>Κίνα</value></data>
+	<data name="CX" xml:space="preserve"><value>Νήσος των Χριστουγέννων</value></data>
+	<data name="CC" xml:space="preserve"><value>Νησιά Κόκος</value></data>
+	<data name="CO" xml:space="preserve"><value>Κολομβία</value></data>
+	<data name="KM" xml:space="preserve"><value>Ένωση των Κομορών</value></data>
+	<data name="CG" xml:space="preserve"><value>Δημοκρατία του Κονγκό</value></data>
+	<data name="CD" xml:space="preserve"><value>Λαϊκή Δημοκρατία του Κονγκό</value></data>
+	<data name="CK" xml:space="preserve"><value>Νήσοι Κουκ</value></data>
+	<data name="CR" xml:space="preserve"><value>Κόστα Ρίκα</value></data>
+	<data name="CI" xml:space="preserve"><value>Ακτή Ελεφαντοστού</value></data>
+	<data name="HR" xml:space="preserve"><value>Κροατία</value></data>
+	<data name="CU" xml:space="preserve"><value>Κούβα</value></data>
+	<data name="CY" xml:space="preserve"><value>Κύπρος</value></data>
+	<data name="CZ" xml:space="preserve"><value>Τσεχική Δημοκρατία</value></data>
+	<data name="DK" xml:space="preserve"><value>Δανία</value></data>
+	<data name="DJ" xml:space="preserve"><value>Τζιμπουτί</value></data>
+	<data name="DM" xml:space="preserve"><value>Κοινοπολιτεία της Δομινίκας</value></data>
+	<data name="DO" xml:space="preserve"><value>Δομινικανή Δημοκρατία</value></data>
+	<data name="EC" xml:space="preserve"><value>Εκουαδόρ</value></data>
+	<data name="EG" xml:space="preserve"><value>Αίγυπτος</value></data>
+	<data name="SV" xml:space="preserve"><value>Ελ Σαλβαδόρ</value></data>
+	<data name="GQ" xml:space="preserve"><value>Ισημερινή-Γουινέα</value></data>
+	<data name="ER" xml:space="preserve"><value>Κράτος της Ερυθραίας</value></data>
+	<data name="EE" xml:space="preserve"><value>Εσθονία</value></data>
+	<data name="ET" xml:space="preserve"><value>Αιθιοπία</value></data>
+	<data name="FK" xml:space="preserve"><value>Νήσοι Φώκλαντ (Μαλβίνας)</value></data>
+	<data name="FO" xml:space="preserve"><value>Νήσοι Φερόες</value></data>
+	<data name="FJ" xml:space="preserve"><value>Δημοκρατία των Φίτζι</value></data>
+	<data name="FI" xml:space="preserve"><value>Φινλανδία</value></data>
+	<data name="FR" xml:space="preserve"><value>Γαλλία</value></data>
+	<data name="GF" xml:space="preserve"><value>Γαλλική Γουιάνα</value></data>
+	<data name="PF" xml:space="preserve"><value>Γαλλική Πολυνησία</value></data>
+	<data name="TF" xml:space="preserve"><value>Γαλλικά Νότια και Ανταρκτικά Εδάφη</value></data>
+	<data name="GA" xml:space="preserve"><value>Γκαμπόν</value></data>
+	<data name="GM" xml:space="preserve"><value>Γκάμπια</value></data>
+	<data name="GE" xml:space="preserve"><value>Γεωργία</value></data>
+	<data name="DE" xml:space="preserve"><value>Γερμανία</value></data>
+	<data name="GH" xml:space="preserve"><value>Γκάνα</value></data>
+	<data name="GI" xml:space="preserve"><value>Γιβραλτάρ</value></data>
+	<data name="GR" xml:space="preserve"><value>Ελλάδα</value></data>
+	<data name="GL" xml:space="preserve"><value>Γροιλανδία</value></data>
+	<data name="GD" xml:space="preserve"><value>Γρενάδα</value></data>
+	<data name="GP" xml:space="preserve"><value>Γουαδελούπη</value></data>
+	<data name="GU" xml:space="preserve"><value>Γκουάμ</value></data>
+	<data name="GT" xml:space="preserve"><value>Γουατεμάλα</value></data>
+	<data name="GN" xml:space="preserve"><value>Γουινέα</value></data>
+	<data name="GW" xml:space="preserve"><value>Γουινέα-Μπισσάου</value></data>
+	<data name="GY" xml:space="preserve"><value>Γουιάνα</value></data>
+	<data name="HT" xml:space="preserve"><value>Αϊτη</value></data>
+	<data name="HM" xml:space="preserve"><value>Νήσοι Χερντ και Μακντόναλντ</value></data>
+	<data name="VA" xml:space="preserve"><value>Κράτος της Πόλης του Βατικανού</value></data>
+	<data name="HN" xml:space="preserve"><value>Ονδούρα</value></data>
+	<data name="HK" xml:space="preserve"><value>Χονγκ Κόνγκ</value></data>
+	<data name="HU" xml:space="preserve"><value>Ουγγαρία</value></data>
+	<data name="IS" xml:space="preserve"><value>Ισλανδία</value></data>
+	<data name="IN" xml:space="preserve"><value>Ινδία</value></data>
+	<data name="ID" xml:space="preserve"><value>Ινδονησία</value></data>
+	<data name="IR" xml:space="preserve"><value>Ισλαμική Δημοκρατία του Ιράν</value></data>
+	<data name="IQ" xml:space="preserve"><value>Ιράκ</value></data>
+	<data name="IE" xml:space="preserve"><value>Ιρλανδία</value></data>
+	<data name="IL" xml:space="preserve"><value>Ισραήλ</value></data>
+	<data name="IT" xml:space="preserve"><value>Ιταλία</value></data>
+	<data name="JM" xml:space="preserve"><value>Τζαμάικα</value></data>
+	<data name="JP" xml:space="preserve"><value>Ιαπωνία</value></data>
+	<data name="JO" xml:space="preserve"><value>Ιορδανία</value></data>
+	<data name="KZ" xml:space="preserve"><value>Καζακστάν</value></data>
+	<data name="KE" xml:space="preserve"><value>Κένυα</value></data>
+	<data name="KI" xml:space="preserve"><value>Κιριμπάτι</value></data>
+	<data name="KP" xml:space="preserve"><value>Λαοκρατική Δημοκρατία της Κορέας</value></data>
+	<data name="KR" xml:space="preserve"><value>Δημοκρατία της Κορέας</value></data>
+	<data name="KW" xml:space="preserve"><value>Κουβέιτ</value></data>
+	<data name="KG" xml:space="preserve"><value>Κιργιζία</value></data>
+	<data name="LA" xml:space="preserve"><value>Λαϊκή Δημοκρατία του Λάος</value></data>
+	<data name="LV" xml:space="preserve"><value>Λετονία</value></data>
+	<data name="LB" xml:space="preserve"><value>Λίβανο</value></data>
+	<data name="LS" xml:space="preserve"><value>Βασίλειο του Λεσότο</value></data>
+	<data name="LR" xml:space="preserve"><value>Λιβερία</value></data>
+	<data name="LY" xml:space="preserve"><value>Κράτος της Λιβύης</value></data>
+	<data name="LI" xml:space="preserve"><value>Πριγκιπάτο του Λίχτενσταϊν</value></data>
+	<data name="LT" xml:space="preserve"><value>Λιθουανία</value></data>
+	<data name="LU" xml:space="preserve"><value>Λουξεμβούργο</value></data>
+	<data name="MO" xml:space="preserve"><value>Μακάου</value></data>
+	<data name="MK" xml:space="preserve"><value>Δημοκρατία της Βόρειας Μακεδονίας</value></data>
+	<data name="MG" xml:space="preserve"><value>Μαδαγασκάρη</value></data>
+	<data name="MW" xml:space="preserve"><value>Μαλάουι</value></data>
+	<data name="MY" xml:space="preserve"><value>Μαλαισία</value></data>
+	<data name="MV" xml:space="preserve"><value>Μαλβίδες</value></data>
+	<data name="ML" xml:space="preserve"><value>Μαλί</value></data>
+	<data name="MT" xml:space="preserve"><value>Μάλτα</value></data>
+	<data name="MH" xml:space="preserve"><value>Νήσοι Μάρσαλ</value></data>
+	<data name="MQ" xml:space="preserve"><value>Μαρτινίκα</value></data>
+	<data name="MR" xml:space="preserve"><value>Μαυριτανία</value></data>
+	<data name="MU" xml:space="preserve"><value>Μαυρίκιος</value></data>
+	<data name="YT" xml:space="preserve"><value>Μαγιότ</value></data>
+	<data name="MX" xml:space="preserve"><value>Μεξικό</value></data>
+	<data name="FM" xml:space="preserve"><value>Ομόσπονδες Πολιτείες της Μικρονησίας</value></data>
+	<data name="MD" xml:space="preserve"><value>Δημοκρατία της Μολδαβίας</value></data>
+	<data name="MC" xml:space="preserve"><value>Πριγκιπάτο του Μονακό</value></data>
+	<data name="MN" xml:space="preserve"><value>Μογγολία</value></data>
+	<data name="MS" xml:space="preserve"><value>Μοντσερράτ</value></data>
+	<data name="MA" xml:space="preserve"><value>Μαρόκο</value></data>
+	<data name="MZ" xml:space="preserve"><value>Μοζαμβίκη</value></data>
+	<data name="MM" xml:space="preserve"><value>Μιανμάρ</value></data>
+	<data name="NA" xml:space="preserve"><value>Ναμίμπια</value></data>
+	<data name="NR" xml:space="preserve"><value>Ναουρού</value></data>
+	<data name="NP" xml:space="preserve"><value>Νεπάλ</value></data>
+	<data name="NL" xml:space="preserve"><value>Ολλανδία</value></data>
+	<data name="NC" xml:space="preserve"><value>Νέα Καληδονία</value></data>
+	<data name="NZ" xml:space="preserve"><value>Νέα Ζηλανδία</value></data>
+	<data name="NI" xml:space="preserve"><value>Νικαράγουα</value></data>
+	<data name="NE" xml:space="preserve"><value>Νίγηρας</value></data>
+	<data name="NG" xml:space="preserve"><value>Νιγηρία</value></data>
+	<data name="NU" xml:space="preserve"><value>Νιούε</value></data>
+	<data name="NF" xml:space="preserve"><value>Νησί Νόρφολκ</value></data>
+	<data name="MP" xml:space="preserve"><value>Βόρειες Μαριάνες Νήσοι</value></data>
+	<data name="NO" xml:space="preserve"><value>Νορβηγία</value></data>
+	<data name="OM" xml:space="preserve"><value>Ομάν</value></data>
+	<data name="PK" xml:space="preserve"><value>Πακιστάν</value></data>
+	<data name="PW" xml:space="preserve"><value>Παλάου</value></data>
+	<data name="PS" xml:space="preserve"><value>Κράτος της Παλαιστίνης</value></data>
+	<data name="PA" xml:space="preserve"><value>Παναμάς</value></data>
+	<data name="PG" xml:space="preserve"><value>Παπούα Νέα Γουινέα</value></data>
+	<data name="PY" xml:space="preserve"><value>Παραγουάη</value></data>
+	<data name="PE" xml:space="preserve"><value>Περού</value></data>
+	<data name="PH" xml:space="preserve"><value>Φιλιππίνες</value></data>
+	<data name="PN" xml:space="preserve"><value>Νήσοι Πίτκαιρν</value></data>
+	<data name="PL" xml:space="preserve"><value>Πολωνία</value></data>
+	<data name="PT" xml:space="preserve"><value>Πορτογαλία</value></data>
+	<data name="PR" xml:space="preserve"><value>Πουέρτο Ρίκο</value></data>
+	<data name="QA" xml:space="preserve"><value>Κατάρ</value></data>
+	<data name="RE" xml:space="preserve"><value>Ρεϋνιόν</value></data>
+	<data name="RO" xml:space="preserve"><value>Ρουμανία</value></data>
+	<data name="RU" xml:space="preserve"><value>Ρωσική Ομοσπονδία</value></data>
+	<data name="RW" xml:space="preserve"><value>Ρουάντα</value></data>
+	<data name="SH" xml:space="preserve"><value>Νήσος Αγίας Ελένης</value></data>
+	<data name="KN" xml:space="preserve"><value>Ομοσπονδία Αγίου Χριστόφορου και Νέβις</value></data>
+	<data name="LC" xml:space="preserve"><value>Αγία Λουκία</value></data>
+	<data name="PM" xml:space="preserve"><value>Σαιν Πιερ και Μικελόν</value></data>
+	<data name="VC" xml:space="preserve"><value>Άγιος Βικέντιος και Γρεναδίνες</value></data>
+	<data name="WS" xml:space="preserve"><value>Σαμόα</value></data>
+	<data name="SM" xml:space="preserve"><value>Άγιος Μαρίνος</value></data>
+	<data name="ST" xml:space="preserve"><value>Σάο Τομέ και Πρίνσιπε</value></data>
+	<data name="SA" xml:space="preserve"><value>Σαουδική Αραβία</value></data>
+	<data name="SN" xml:space="preserve"><value>Σενεγάλη</value></data>
+	<data name="SC" xml:space="preserve"><value>Σεϋχέλλες</value></data>
+	<data name="SL" xml:space="preserve"><value>Σιέρα Λεόνε</value></data>
+	<data name="SG" xml:space="preserve"><value>Σιγκαπούρη</value></data>
+	<data name="SK" xml:space="preserve"><value>Σλοβακία</value></data>
+	<data name="SI" xml:space="preserve"><value>Σλοβενία</value></data>
+	<data name="SB" xml:space="preserve"><value>Νήσοι Σολομώντα</value></data>
+	<data name="SO" xml:space="preserve"><value>Σομαλία</value></data>
+	<data name="ZA" xml:space="preserve"><value>Νότια Αφρική</value></data>
+	<data name="GS" xml:space="preserve"><value>Νότιος Γεωργία και Νότιοι Σάντουιτς Νήσοι</value></data>
+	<data name="ES" xml:space="preserve"><value>Ισπανία</value></data>
+	<data name="LK" xml:space="preserve"><value>Σρι Λάνκα</value></data>
+	<data name="SD" xml:space="preserve"><value>Σουδάν</value></data>
+	<data name="SR" xml:space="preserve"><value>Σουρινάμ</value></data>
+	<data name="SJ" xml:space="preserve"><value>Σβάλμπαρντ και Γιαν Μαγιέν</value></data>
+	<data name="SZ" xml:space="preserve"><value>Σουαζιλάνδη</value></data>
+	<data name="SE" xml:space="preserve"><value>Σουηδία</value></data>
+	<data name="CH" xml:space="preserve"><value>Ελβετία</value></data>
+	<data name="SY" xml:space="preserve"><value>Αραβική Δημοκρατία της Συρίας</value></data>
+	<data name="TW" xml:space="preserve"><value>Δημοκρατία της Κίνας</value></data>
+	<data name="TJ" xml:space="preserve"><value>Τατζικιστάν</value></data>
+	<data name="TZ" xml:space="preserve"><value>Ενωμένη Δημοκρατία της Τανζανίας</value></data>
+	<data name="TH" xml:space="preserve"><value>Ταϊλάνδη</value></data>
+	<data name="TL" xml:space="preserve"><value>Ανατολικό Τιμόρ</value></data>
+	<data name="TG" xml:space="preserve"><value>Τογκό</value></data>
+	<data name="TK" xml:space="preserve"><value>Τοκελάου</value></data>
+	<data name="TO" xml:space="preserve"><value>Τόνγκα</value></data>
+	<data name="TT" xml:space="preserve"><value>Τρινιντάντ και Τομπάγκο</value></data>
+	<data name="TN" xml:space="preserve"><value>Τυνησία</value></data>
+	<data name="TR" xml:space="preserve"><value>Τουρκία</value></data>
+	<data name="TM" xml:space="preserve"><value>Τουρκμενιστάν</value></data>
+	<data name="TC" xml:space="preserve"><value>Τερκς και Κέικος</value></data>
+	<data name="TV" xml:space="preserve"><value>Τουβαλού</value></data>
+	<data name="UG" xml:space="preserve"><value>Ουγκάντα</value></data>
+	<data name="UA" xml:space="preserve"><value>Ουκρανια</value></data>
+	<data name="AE" xml:space="preserve"><value>Ηνωμένα Αραβικά Εμιράτα</value></data>
+	<data name="GB" xml:space="preserve"><value>Ηνωμένο Βασίλειο</value></data>
+	<data name="US" xml:space="preserve"><value>Ηνωμένες Πολιτείες Αμερικής</value></data>
+	<data name="UM" xml:space="preserve"><value>Απομακρυσμένες Νησίδες των Ηνωμένων Πολιτειών</value></data>
+	<data name="UY" xml:space="preserve"><value>Ουρουγουάη</value></data>
+	<data name="UZ" xml:space="preserve"><value>Ουζμπεκιστάν</value></data>
+	<data name="VU" xml:space="preserve"><value>Βανουάτου</value></data>
+	<data name="VE" xml:space="preserve"><value>Βενεζουέλα</value></data>
+	<data name="VN" xml:space="preserve"><value>Βιετνάμ</value></data>
+	<data name="VG" xml:space="preserve"><value>Βρετανικές Παρθένοι Νήσοι</value></data>
+	<data name="VI" xml:space="preserve"><value>Αμερικανικές Παρθένοι Νήσοι</value></data>
+	<data name="WF" xml:space="preserve"><value>Ουαλίς και Φουτουνά</value></data>
+	<data name="EH" xml:space="preserve"><value>Δυτική Σαχάρα</value></data>
+	<data name="YE" xml:space="preserve"><value>Υεμένη</value></data>
+	<data name="ZM" xml:space="preserve"><value>Ζάμπια</value></data>
+	<data name="ZW" xml:space="preserve"><value>Ζιμπάμπουε</value></data>
+	<data name="AX" xml:space="preserve"><value>Νήσοι Ώλαντ</value></data>
+	<data name="BQ" xml:space="preserve"><value>Μποναίρ, Άγιος Ευστάθιος και Σάμπα</value></data>
+	<data name="CW" xml:space="preserve"><value>Κουρασάο</value></data>
+	<data name="GG" xml:space="preserve"><value>Γκουέρνσεϊ</value></data>
+	<data name="IM" xml:space="preserve"><value>Νήσος του Μαν</value></data>
+	<data name="JE" xml:space="preserve"><value>Βαϊλάτο του Τζέρσεϊ</value></data>
+	<data name="ME" xml:space="preserve"><value>Μαυροβούνιο</value></data>
+	<data name="BL" xml:space="preserve"><value>Άγιος Βαρθολομαίος</value></data>
+	<data name="MF" xml:space="preserve"><value>Άγιος Μαρτίνος (Γαλλία)</value></data>
+	<data name="RS" xml:space="preserve"><value>Σερβία</value></data>
+	<data name="SX" xml:space="preserve"><value>Άγιος Μαρτίνος (Ολλανδία)</value></data>
+	<data name="SS" xml:space="preserve"><value>Νότιο Σουδάν</value></data>
+	<data name="XK" xml:space="preserve"><value>Κόσοβο</value></data>
+</root>

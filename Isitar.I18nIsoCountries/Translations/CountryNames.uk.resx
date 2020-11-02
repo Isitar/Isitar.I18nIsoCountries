@@ -1,0 +1,256 @@
+<root>
+	<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+	<resheader name="version"><value>1.3</value></resheader>
+	<resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+	<resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+	<data name="AU" xml:space="preserve"><value>Австралія</value></data>
+	<data name="AT" xml:space="preserve"><value>Австрія</value></data>
+	<data name="AZ" xml:space="preserve"><value>Азербайджан</value></data>
+	<data name="AX" xml:space="preserve"><value>Аландські острови</value></data>
+	<data name="AL" xml:space="preserve"><value>Албанія</value></data>
+	<data name="DZ" xml:space="preserve"><value>Алжир</value></data>
+	<data name="AS" xml:space="preserve"><value>Американське Самоа</value></data>
+	<data name="AI" xml:space="preserve"><value>Ангілья</value></data>
+	<data name="AO" xml:space="preserve"><value>Ангола</value></data>
+	<data name="AD" xml:space="preserve"><value>Андорра</value></data>
+	<data name="AQ" xml:space="preserve"><value>Антарктида</value></data>
+	<data name="AG" xml:space="preserve"><value>Антигуа і Барбуда</value></data>
+	<data name="MO" xml:space="preserve"><value>Аоминь</value></data>
+	<data name="AR" xml:space="preserve"><value>Аргентина</value></data>
+	<data name="AM" xml:space="preserve"><value>Арменія</value></data>
+	<data name="AW" xml:space="preserve"><value>Аруба</value></data>
+	<data name="AF" xml:space="preserve"><value>Афганістан</value></data>
+	<data name="BS" xml:space="preserve"><value>Багами</value></data>
+	<data name="BD" xml:space="preserve"><value>Бангладеш</value></data>
+	<data name="BB" xml:space="preserve"><value>Барбадос</value></data>
+	<data name="BH" xml:space="preserve"><value>Бахрейн</value></data>
+	<data name="BZ" xml:space="preserve"><value>Беліз</value></data>
+	<data name="BE" xml:space="preserve"><value>Бельгія</value></data>
+	<data name="BJ" xml:space="preserve"><value>Бенін</value></data>
+	<data name="BM" xml:space="preserve"><value>Бермуди</value></data>
+	<data name="BY" xml:space="preserve"><value>Білорусь</value></data>
+	<data name="BG" xml:space="preserve"><value>Болгарія</value></data>
+	<data name="BO" xml:space="preserve"><value>Болівія</value></data>
+	<data name="BA" xml:space="preserve"><value>Боснія і Герцеговина</value></data>
+	<data name="BW" xml:space="preserve"><value>Ботсвана</value></data>
+	<data name="BR" xml:space="preserve"><value>Бразилія</value></data>
+	<data name="IO" xml:space="preserve"><value>Британська Територія в Індійському Океані</value></data>
+	<data name="VG" xml:space="preserve"><value>Британські Віргінські Острови</value></data>
+	<data name="BN" xml:space="preserve"><value>Бруней Даруссалам</value></data>
+	<data name="BF" xml:space="preserve"><value>Буркіна-Фасо</value></data>
+	<data name="BI" xml:space="preserve"><value>Бурунді</value></data>
+	<data name="BT" xml:space="preserve"><value>Бутан</value></data>
+	<data name="VU" xml:space="preserve"><value>Вануату</value></data>
+	<data name="VA" xml:space="preserve"><value>Ватикан</value></data>
+	<data name="GB" xml:space="preserve"><value>Великобританія</value></data>
+	<data name="VE" xml:space="preserve"><value>Венесуела</value></data>
+	<data name="VI" xml:space="preserve"><value>Віргінські Острови (США)</value></data>
+	<data name="WF" xml:space="preserve"><value>Волліс і Футуна</value></data>
+	<data name="VN" xml:space="preserve"><value>В'єтнам</value></data>
+	<data name="UM" xml:space="preserve"><value>Зовнішні малі острови (США)</value></data>
+	<data name="GA" xml:space="preserve"><value>Габон</value></data>
+	<data name="HT" xml:space="preserve"><value>Гаїті</value></data>
+	<data name="GY" xml:space="preserve"><value>Гаяна</value></data>
+	<data name="GM" xml:space="preserve"><value>Гамбія</value></data>
+	<data name="GH" xml:space="preserve"><value>Гана</value></data>
+	<data name="GP" xml:space="preserve"><value>Гваделупа</value></data>
+	<data name="GT" xml:space="preserve"><value>Гватемала</value></data>
+	<data name="GF" xml:space="preserve"><value>Гвіана</value></data>
+	<data name="GN" xml:space="preserve"><value>Гвінея</value></data>
+	<data name="GW" xml:space="preserve"><value>Гвінея-Бісау</value></data>
+	<data name="GG" xml:space="preserve"><value>Гернсі</value></data>
+	<data name="GI" xml:space="preserve"><value>Гібралтар</value></data>
+	<data name="HN" xml:space="preserve"><value>Гондурас</value></data>
+	<data name="HK" xml:space="preserve"><value>Гонконг</value></data>
+	<data name="GD" xml:space="preserve"><value>Гренада</value></data>
+	<data name="GR" xml:space="preserve"><value>Греція</value></data>
+	<data name="GE" xml:space="preserve"><value>Грузія</value></data>
+	<data name="GU" xml:space="preserve"><value>Гуам</value></data>
+	<data name="GL" xml:space="preserve"><value>Ґренландія</value></data>
+	<data name="DK" xml:space="preserve"><value>Данія</value></data>
+	<data name="JE" xml:space="preserve"><value>Джерсі</value></data>
+	<data name="DJ" xml:space="preserve"><value>Джибуті</value></data>
+	<data name="DM" xml:space="preserve"><value>Домініка</value></data>
+	<data name="DO" xml:space="preserve"><value>Домініканська Республіка</value></data>
+	<data name="CD" xml:space="preserve"><value>Демократична Республіка Конго</value></data>
+	<data name="EC" xml:space="preserve"><value>Еквадор</value></data>
+	<data name="GQ" xml:space="preserve"><value>Екваторіальна Гвінея</value></data>
+	<data name="ER" xml:space="preserve"><value>Еритрея</value></data>
+	<data name="EE" xml:space="preserve"><value>Естонія</value></data>
+	<data name="ET" xml:space="preserve"><value>Ефіопія</value></data>
+	<data name="EG" xml:space="preserve"><value>Єгипет</value></data>
+	<data name="YE" xml:space="preserve"><value>Ємен</value></data>
+	<data name="ZM" xml:space="preserve"><value>Замбія</value></data>
+	<data name="ZW" xml:space="preserve"><value>Зімбабве</value></data>
+	<data name="IL" xml:space="preserve"><value>Ізраїль</value></data>
+	<data name="IN" xml:space="preserve"><value>Індія</value></data>
+	<data name="ID" xml:space="preserve"><value>Індонезія</value></data>
+	<data name="IQ" xml:space="preserve"><value>Ірак</value></data>
+	<data name="IR" xml:space="preserve"><value>Іран</value></data>
+	<data name="IE" xml:space="preserve"><value>Ірландія</value></data>
+	<data name="IS" xml:space="preserve"><value>Ісландія</value></data>
+	<data name="ES" xml:space="preserve"><value>Іспанія</value></data>
+	<data name="IT" xml:space="preserve"><value>Італія</value></data>
+	<data name="JO" xml:space="preserve"><value>Йорданія</value></data>
+	<data name="CV" xml:space="preserve"><value>Кабо-Верде</value></data>
+	<data name="KZ" xml:space="preserve"><value>Казахстан</value></data>
+	<data name="KY" xml:space="preserve"><value>Кайманові Острови</value></data>
+	<data name="KH" xml:space="preserve"><value>Камбоджа</value></data>
+	<data name="CM" xml:space="preserve"><value>Камерун</value></data>
+	<data name="CA" xml:space="preserve"><value>Канада</value></data>
+	<data name="BQ" xml:space="preserve"><value>Карибські Нідерланди</value></data>
+	<data name="QA" xml:space="preserve"><value>Катар</value></data>
+	<data name="KE" xml:space="preserve"><value>Кенія</value></data>
+	<data name="CY" xml:space="preserve"><value>Кіпр</value></data>
+	<data name="KI" xml:space="preserve"><value>Кірибаті</value></data>
+	<data name="KG" xml:space="preserve"><value>Киргизстан</value></data>
+	<data name="TW" xml:space="preserve"><value>Республіка Китай</value></data>
+	<data name="KP" xml:space="preserve"><value>КНДР (Корейська Народно-Демократична Республіка)</value></data>
+	<data name="CN" xml:space="preserve"><value>КНР (Китайська Народна Республіка)</value></data>
+	<data name="CC" xml:space="preserve"><value>Кокосові острови</value></data>
+	<data name="CO" xml:space="preserve"><value>Колумбія</value></data>
+	<data name="KM" xml:space="preserve"><value>Коморські Острови</value></data>
+	<data name="XK" xml:space="preserve"><value>Косово</value></data>
+	<data name="CR" xml:space="preserve"><value>Коста-Рика</value></data>
+	<data name="CI" xml:space="preserve"><value>Кот-д'Івуар</value></data>
+	<data name="CU" xml:space="preserve"><value>Куба</value></data>
+	<data name="KW" xml:space="preserve"><value>Кувейт</value></data>
+	<data name="CW" xml:space="preserve"><value>Кюрасао</value></data>
+	<data name="LA" xml:space="preserve"><value>Лаос</value></data>
+	<data name="LV" xml:space="preserve"><value>Латвія</value></data>
+	<data name="LS" xml:space="preserve"><value>Лесото</value></data>
+	<data name="LR" xml:space="preserve"><value>Ліберія</value></data>
+	<data name="LB" xml:space="preserve"><value>Ліван</value></data>
+	<data name="LY" xml:space="preserve"><value>Лівія</value></data>
+	<data name="LT" xml:space="preserve"><value>Литва</value></data>
+	<data name="LI" xml:space="preserve"><value>Ліхтенштейн</value></data>
+	<data name="LU" xml:space="preserve"><value>Люксембург</value></data>
+	<data name="MU" xml:space="preserve"><value>Маврикій</value></data>
+	<data name="MR" xml:space="preserve"><value>Мавританія</value></data>
+	<data name="MG" xml:space="preserve"><value>Мадагаскар</value></data>
+	<data name="YT" xml:space="preserve"><value>Майотта</value></data>
+	<data name="MW" xml:space="preserve"><value>Малаві</value></data>
+	<data name="MY" xml:space="preserve"><value>Малайзія</value></data>
+	<data name="ML" xml:space="preserve"><value>Малі</value></data>
+	<data name="MV" xml:space="preserve"><value>Мальдівы</value></data>
+	<data name="MT" xml:space="preserve"><value>Мальта</value></data>
+	<data name="MA" xml:space="preserve"><value>Марокко</value></data>
+	<data name="MQ" xml:space="preserve"><value>Мартиніка</value></data>
+	<data name="MH" xml:space="preserve"><value>Маршаллові Острови</value></data>
+	<data name="MX" xml:space="preserve"><value>Мексика</value></data>
+	<data name="FM" xml:space="preserve"><value>Мікронезія</value></data>
+	<data name="MZ" xml:space="preserve"><value>Мозамбік</value></data>
+	<data name="MD" xml:space="preserve"><value>Молдова</value></data>
+	<data name="MC" xml:space="preserve"><value>Монако</value></data>
+	<data name="MN" xml:space="preserve"><value>Монголія</value></data>
+	<data name="MS" xml:space="preserve"><value>Монтсеррат</value></data>
+	<data name="MM" xml:space="preserve"><value>М'янма</value></data>
+	<data name="NA" xml:space="preserve"><value>Намібія</value></data>
+	<data name="NR" xml:space="preserve"><value>Науру</value></data>
+	<data name="NP" xml:space="preserve"><value>Непал</value></data>
+	<data name="NE" xml:space="preserve"><value>Нігер</value></data>
+	<data name="NG" xml:space="preserve"><value>Нігерія</value></data>
+	<data name="NL" xml:space="preserve"><value>Нідерланди</value></data>
+	<data name="NI" xml:space="preserve"><value>Нікарагуа</value></data>
+	<data name="DE" xml:space="preserve"><value>Німеччина</value></data>
+	<data name="NU" xml:space="preserve"><value>Ніуе</value></data>
+	<data name="NZ" xml:space="preserve"><value>Нова Зеландія</value></data>
+	<data name="NC" xml:space="preserve"><value>Нова Каледонія</value></data>
+	<data name="NO" xml:space="preserve"><value>Норвегія</value></data>
+	<data name="AE" xml:space="preserve"><value>Об'єднані Арабські Емірати</value></data>
+	<data name="OM" xml:space="preserve"><value>Оман</value></data>
+	<data name="BV" xml:space="preserve"><value>Острів Буве</value></data>
+	<data name="HM" xml:space="preserve"><value>Острів Герд і острови Макдональд</value></data>
+	<data name="IM" xml:space="preserve"><value>Острів Мен</value></data>
+	<data name="NF" xml:space="preserve"><value>Острів Норфолк</value></data>
+	<data name="CX" xml:space="preserve"><value>Острів Різдва</value></data>
+	<data name="CK" xml:space="preserve"><value>Острови Кука</value></data>
+	<data name="SH" xml:space="preserve"><value>Острови Святої Єлени, Вознесіння і Тристан-да-Кунья</value></data>
+	<data name="TC" xml:space="preserve"><value>Острови Теркс і Кайкос</value></data>
+	<data name="PK" xml:space="preserve"><value>Пакистан</value></data>
+	<data name="PW" xml:space="preserve"><value>Палау</value></data>
+	<data name="PS" xml:space="preserve"><value>Палестинська держава</value></data>
+	<data name="PA" xml:space="preserve"><value>Панама</value></data>
+	<data name="PG" xml:space="preserve"><value>Папуа Нова Гвінея</value></data>
+	<data name="ZA" xml:space="preserve"><value>ПАР</value></data>
+	<data name="PY" xml:space="preserve"><value>Парагвай</value></data>
+	<data name="PE" xml:space="preserve"><value>Перу</value></data>
+	<data name="GS" xml:space="preserve"><value>Південна Джорджія та Південні Сандвічеві Острови</value></data>
+	<data name="KR" xml:space="preserve"><value>Південна Корея</value></data>
+	<data name="SS" xml:space="preserve"><value>Південний Судан</value></data>
+	<data name="MK" xml:space="preserve"><value>Північна Македонія</value></data>
+	<data name="MP" xml:space="preserve"><value>Північні Маріанські Острови</value></data>
+	<data name="PN" xml:space="preserve"><value>Піткерн</value></data>
+	<data name="PL" xml:space="preserve"><value>Польша</value></data>
+	<data name="PT" xml:space="preserve"><value>Португалія</value></data>
+	<data name="PR" xml:space="preserve"><value>Пуерто-Ріко</value></data>
+	<data name="CG" xml:space="preserve"><value>Республіка Конго</value></data>
+	<data name="RE" xml:space="preserve"><value>Реюньйон</value></data>
+	<data name="RU" xml:space="preserve"><value>Росія</value></data>
+	<data name="RW" xml:space="preserve"><value>Руанда</value></data>
+	<data name="RO" xml:space="preserve"><value>Румунія</value></data>
+	<data name="EH" xml:space="preserve"><value>САДР</value></data>
+	<data name="SV" xml:space="preserve"><value>Сальвадор</value></data>
+	<data name="WS" xml:space="preserve"><value>Самоа</value></data>
+	<data name="SM" xml:space="preserve"><value>Сан-Маріно</value></data>
+	<data name="ST" xml:space="preserve"><value>Сан-Томе і Принсіпі</value></data>
+	<data name="SA" xml:space="preserve"><value>Саудівська Аравія</value></data>
+	<data name="SZ" xml:space="preserve"><value>Свазіленд</value></data>
+	<data name="SJ" xml:space="preserve"><value>Свальбард і Ян-Маєн</value></data>
+	<data name="SC" xml:space="preserve"><value>Сейшельські Острови</value></data>
+	<data name="BL" xml:space="preserve"><value>Сен-Бартельмі</value></data>
+	<data name="MF" xml:space="preserve"><value>Сен-Мартен</value></data>
+	<data name="PM" xml:space="preserve"><value>Сен-П'єр і Мікелон</value></data>
+	<data name="SN" xml:space="preserve"><value>Сенегал</value></data>
+	<data name="VC" xml:space="preserve"><value>Сент-Вінсент і Гренадини</value></data>
+	<data name="KN" xml:space="preserve"><value>Сент-Кіттс і Невіс</value></data>
+	<data name="LC" xml:space="preserve"><value>Сент-Люсія</value></data>
+	<data name="RS" xml:space="preserve"><value>Сербія</value></data>
+	<data name="SG" xml:space="preserve"><value>Сінгапур</value></data>
+	<data name="SX" xml:space="preserve"><value>Сінт-Мартен</value></data>
+	<data name="SY" xml:space="preserve"><value>Сірія</value></data>
+	<data name="SK" xml:space="preserve"><value>Словаччина</value></data>
+	<data name="SI" xml:space="preserve"><value>Словенія</value></data>
+	<data name="SB" xml:space="preserve"><value>Соломонові Острови</value></data>
+	<data name="SO" xml:space="preserve"><value>Сомалі</value></data>
+	<data name="SD" xml:space="preserve"><value>Судан</value></data>
+	<data name="SR" xml:space="preserve"><value>Суринам</value></data>
+	<data name="TL" xml:space="preserve"><value>Східний Тимор</value></data>
+	<data name="US" xml:space="preserve"><value>США</value></data>
+	<data name="SL" xml:space="preserve"><value>Сьєрра-Леоне</value></data>
+	<data name="TJ" xml:space="preserve"><value>Таджикистан</value></data>
+	<data name="TH" xml:space="preserve"><value>Таїланд</value></data>
+	<data name="TZ" xml:space="preserve"><value>Танзанія</value></data>
+	<data name="TG" xml:space="preserve"><value>Того</value></data>
+	<data name="TK" xml:space="preserve"><value>Токелау</value></data>
+	<data name="TO" xml:space="preserve"><value>Тонга</value></data>
+	<data name="TT" xml:space="preserve"><value>Тринідад і Тобаго</value></data>
+	<data name="TV" xml:space="preserve"><value>Тувалу</value></data>
+	<data name="TN" xml:space="preserve"><value>Туніс</value></data>
+	<data name="TM" xml:space="preserve"><value>Туркменістан</value></data>
+	<data name="TR" xml:space="preserve"><value>Турція</value></data>
+	<data name="UG" xml:space="preserve"><value>Уганда</value></data>
+	<data name="HU" xml:space="preserve"><value>Угорщина</value></data>
+	<data name="UZ" xml:space="preserve"><value>Узбекистан</value></data>
+	<data name="UA" xml:space="preserve"><value>Україна</value></data>
+	<data name="UY" xml:space="preserve"><value>Уругвай</value></data>
+	<data name="FO" xml:space="preserve"><value>Фарерські острови</value></data>
+	<data name="FJ" xml:space="preserve"><value>Фіджі</value></data>
+	<data name="PH" xml:space="preserve"><value>Філіппіни</value></data>
+	<data name="FI" xml:space="preserve"><value>Фінляндія</value></data>
+	<data name="FK" xml:space="preserve"><value>Фолклендські Острови</value></data>
+	<data name="FR" xml:space="preserve"><value>Франція</value></data>
+	<data name="PF" xml:space="preserve"><value>Французька Полінезія</value></data>
+	<data name="TF" xml:space="preserve"><value>Французькі Південні і Антарктичні Території</value></data>
+	<data name="HR" xml:space="preserve"><value>Хорватія</value></data>
+	<data name="CF" xml:space="preserve"><value>Центральноафриканська Республіка</value></data>
+	<data name="TD" xml:space="preserve"><value>Чад</value></data>
+	<data name="ME" xml:space="preserve"><value>Чорногорія</value></data>
+	<data name="CZ" xml:space="preserve"><value>Чехія</value></data>
+	<data name="CL" xml:space="preserve"><value>Чілі</value></data>
+	<data name="CH" xml:space="preserve"><value>Швейцарія</value></data>
+	<data name="SE" xml:space="preserve"><value>Швеція</value></data>
+	<data name="LK" xml:space="preserve"><value>Шрі-Ланка</value></data>
+	<data name="JM" xml:space="preserve"><value>Ямайка</value></data>
+	<data name="JP" xml:space="preserve"><value>Японія</value></data>
+</root>

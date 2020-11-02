@@ -1,0 +1,256 @@
+<root>
+	<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+	<resheader name="version"><value>1.3</value></resheader>
+	<resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+	<resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+	<data name="AD" xml:space="preserve"><value>Andora</value></data>
+	<data name="AE" xml:space="preserve"><value>Ujedinjeni Arapski Emirati</value></data>
+	<data name="AF" xml:space="preserve"><value>Afganistan</value></data>
+	<data name="AG" xml:space="preserve"><value>Antigva i Barbuda</value></data>
+	<data name="AI" xml:space="preserve"><value>Angvila</value></data>
+	<data name="AL" xml:space="preserve"><value>Albanija</value></data>
+	<data name="AM" xml:space="preserve"><value>Armenija</value></data>
+	<data name="AO" xml:space="preserve"><value>Angola</value></data>
+	<data name="AQ" xml:space="preserve"><value>Antarktika</value></data>
+	<data name="AR" xml:space="preserve"><value>Argentina</value></data>
+	<data name="AS" xml:space="preserve"><value>Američka Samoa</value></data>
+	<data name="AT" xml:space="preserve"><value>Austrija</value></data>
+	<data name="AU" xml:space="preserve"><value>Australija</value></data>
+	<data name="AW" xml:space="preserve"><value>Aruba</value></data>
+	<data name="AX" xml:space="preserve"><value>Olandska Ostrva</value></data>
+	<data name="AZ" xml:space="preserve"><value>Azerbejdžan</value></data>
+	<data name="BA" xml:space="preserve"><value>Bosna i Hercegovina</value></data>
+	<data name="BB" xml:space="preserve"><value>Barbados</value></data>
+	<data name="BD" xml:space="preserve"><value>Bangladeš</value></data>
+	<data name="BE" xml:space="preserve"><value>Belgija</value></data>
+	<data name="BF" xml:space="preserve"><value>Burkina Faso</value></data>
+	<data name="BG" xml:space="preserve"><value>Bugarska</value></data>
+	<data name="BH" xml:space="preserve"><value>Bahrein</value></data>
+	<data name="BI" xml:space="preserve"><value>Burundi</value></data>
+	<data name="BJ" xml:space="preserve"><value>Benin</value></data>
+	<data name="BL" xml:space="preserve"><value>Sveti Bartolomej</value></data>
+	<data name="BM" xml:space="preserve"><value>Bermuda</value></data>
+	<data name="BN" xml:space="preserve"><value>Brunej</value></data>
+	<data name="BO" xml:space="preserve"><value>Bolivija</value></data>
+	<data name="BQ" xml:space="preserve"><value>Karipska Holandija</value></data>
+	<data name="BR" xml:space="preserve"><value>Brazil</value></data>
+	<data name="BS" xml:space="preserve"><value>Bahami</value></data>
+	<data name="BT" xml:space="preserve"><value>Butan</value></data>
+	<data name="BV" xml:space="preserve"><value>Ostrvo Buve</value></data>
+	<data name="BW" xml:space="preserve"><value>Bocvana</value></data>
+	<data name="BY" xml:space="preserve"><value>Bjelorusija</value></data>
+	<data name="BZ" xml:space="preserve"><value>Belize</value></data>
+	<data name="CA" xml:space="preserve"><value>Kanada</value></data>
+	<data name="CC" xml:space="preserve"><value>Kokosova (Kilingova) Ostrva</value></data>
+	<data name="CD" xml:space="preserve"><value>Demokratska Republika Kongo</value></data>
+	<data name="CF" xml:space="preserve"><value>Centralnoafrička Republika</value></data>
+	<data name="CG" xml:space="preserve"><value>Kongo</value></data>
+	<data name="CH" xml:space="preserve"><value>Švicarska</value></data>
+	<data name="CI" xml:space="preserve"><value>Obala Slonovače</value></data>
+	<data name="CK" xml:space="preserve"><value>Kukova Ostrva</value></data>
+	<data name="CL" xml:space="preserve"><value>Čile</value></data>
+	<data name="CM" xml:space="preserve"><value>Kamerun</value></data>
+	<data name="CN" xml:space="preserve"><value>Kina</value></data>
+	<data name="CO" xml:space="preserve"><value>Kolumbija</value></data>
+	<data name="CR" xml:space="preserve"><value>Kostarika</value></data>
+	<data name="CU" xml:space="preserve"><value>Kuba</value></data>
+	<data name="CV" xml:space="preserve"><value>Kape Verde</value></data>
+	<data name="CW" xml:space="preserve"><value>Kurasao</value></data>
+	<data name="CX" xml:space="preserve"><value>Božićna Ostrva</value></data>
+	<data name="CY" xml:space="preserve"><value>Kipar</value></data>
+	<data name="CZ" xml:space="preserve"><value>Češka</value></data>
+	<data name="DE" xml:space="preserve"><value>Njemačka</value></data>
+	<data name="DJ" xml:space="preserve"><value>Džibuti</value></data>
+	<data name="DK" xml:space="preserve"><value>Danska</value></data>
+	<data name="DM" xml:space="preserve"><value>Dominika</value></data>
+	<data name="DO" xml:space="preserve"><value>Dominikanska Republika</value></data>
+	<data name="DZ" xml:space="preserve"><value>Alžir</value></data>
+	<data name="EC" xml:space="preserve"><value>Ekvador</value></data>
+	<data name="EE" xml:space="preserve"><value>Estonija</value></data>
+	<data name="EG" xml:space="preserve"><value>Egipat</value></data>
+	<data name="EH" xml:space="preserve"><value>Zapadna Sahara</value></data>
+	<data name="ER" xml:space="preserve"><value>Eritreja</value></data>
+	<data name="ES" xml:space="preserve"><value>Španija</value></data>
+	<data name="ET" xml:space="preserve"><value>Etiopija</value></data>
+	<data name="FI" xml:space="preserve"><value>Finska</value></data>
+	<data name="FJ" xml:space="preserve"><value>Fidži</value></data>
+	<data name="FK" xml:space="preserve"><value>Folklandska Ostrva</value></data>
+	<data name="FM" xml:space="preserve"><value>Mikronezija</value></data>
+	<data name="FO" xml:space="preserve"><value>Farska Ostrva</value></data>
+	<data name="FR" xml:space="preserve"><value>Francuska</value></data>
+	<data name="GA" xml:space="preserve"><value>Gabon</value></data>
+	<data name="GB" xml:space="preserve"><value>Velika Britanija</value></data>
+	<data name="GD" xml:space="preserve"><value>Grenada</value></data>
+	<data name="GE" xml:space="preserve"><value>Gruzija</value></data>
+	<data name="GF" xml:space="preserve"><value>Francuska Gvajana</value></data>
+	<data name="GG" xml:space="preserve"><value>Gernzi</value></data>
+	<data name="GH" xml:space="preserve"><value>Gana</value></data>
+	<data name="GI" xml:space="preserve"><value>Gibraltar</value></data>
+	<data name="GL" xml:space="preserve"><value>Grenland</value></data>
+	<data name="GM" xml:space="preserve"><value>Gambija</value></data>
+	<data name="GN" xml:space="preserve"><value>Gvineja</value></data>
+	<data name="GP" xml:space="preserve"><value>Gvadalupe</value></data>
+	<data name="GQ" xml:space="preserve"><value>Ekvatorijalna Gvineja</value></data>
+	<data name="GR" xml:space="preserve"><value>Grčka</value></data>
+	<data name="GS" xml:space="preserve"><value>Južna Džordžija i Južna Sendvička Ostrva</value></data>
+	<data name="GT" xml:space="preserve"><value>Gvatemala</value></data>
+	<data name="GU" xml:space="preserve"><value>Guam</value></data>
+	<data name="GW" xml:space="preserve"><value>Gvineja-Bisao</value></data>
+	<data name="GY" xml:space="preserve"><value>Gvajana</value></data>
+	<data name="HK" xml:space="preserve"><value>Hong Kong (SAR Kina)</value></data>
+	<data name="HM" xml:space="preserve"><value>Herd i arhipelag MekDonald</value></data>
+	<data name="HN" xml:space="preserve"><value>Honduras</value></data>
+	<data name="HR" xml:space="preserve"><value>Hrvatska</value></data>
+	<data name="HT" xml:space="preserve"><value>Haiti</value></data>
+	<data name="HU" xml:space="preserve"><value>Mađarska</value></data>
+	<data name="ID" xml:space="preserve"><value>Indonezija</value></data>
+	<data name="IE" xml:space="preserve"><value>Irska</value></data>
+	<data name="IL" xml:space="preserve"><value>Izrael</value></data>
+	<data name="IM" xml:space="preserve"><value>Ostrvo Man</value></data>
+	<data name="IN" xml:space="preserve"><value>Indija</value></data>
+	<data name="IO" xml:space="preserve"><value>Britanska Teritorija u Indijskom Okeanu</value></data>
+	<data name="IQ" xml:space="preserve"><value>Irak</value></data>
+	<data name="IR" xml:space="preserve"><value>Iran</value></data>
+	<data name="IS" xml:space="preserve"><value>Island</value></data>
+	<data name="IT" xml:space="preserve"><value>Italija</value></data>
+	<data name="JE" xml:space="preserve"><value>Džerzi</value></data>
+	<data name="JM" xml:space="preserve"><value>Jamajka</value></data>
+	<data name="JO" xml:space="preserve"><value>Jordan</value></data>
+	<data name="JP" xml:space="preserve"><value>Japan</value></data>
+	<data name="KE" xml:space="preserve"><value>Kenija</value></data>
+	<data name="KG" xml:space="preserve"><value>Kirgistan</value></data>
+	<data name="KH" xml:space="preserve"><value>Kambodža</value></data>
+	<data name="KI" xml:space="preserve"><value>Kiribati</value></data>
+	<data name="KM" xml:space="preserve"><value>Komorska Ostrva</value></data>
+	<data name="KN" xml:space="preserve"><value>Sveti Kits i Nevis</value></data>
+	<data name="KP" xml:space="preserve"><value>Sjeverna Koreja</value></data>
+	<data name="KR" xml:space="preserve"><value>Južna Koreja</value></data>
+	<data name="KW" xml:space="preserve"><value>Kuvajt</value></data>
+	<data name="KY" xml:space="preserve"><value>Kajmanska Ostrva</value></data>
+	<data name="KZ" xml:space="preserve"><value>Kazahstan</value></data>
+	<data name="LA" xml:space="preserve"><value>Laos</value></data>
+	<data name="LB" xml:space="preserve"><value>Liban</value></data>
+	<data name="LC" xml:space="preserve"><value>Sveta Lucija</value></data>
+	<data name="LI" xml:space="preserve"><value>Lihtenštajn</value></data>
+	<data name="LK" xml:space="preserve"><value>Šri Lanka</value></data>
+	<data name="LR" xml:space="preserve"><value>Liberija</value></data>
+	<data name="LS" xml:space="preserve"><value>Lesoto</value></data>
+	<data name="LT" xml:space="preserve"><value>Litvanija</value></data>
+	<data name="LU" xml:space="preserve"><value>Luksemburg</value></data>
+	<data name="LV" xml:space="preserve"><value>Latvija</value></data>
+	<data name="LY" xml:space="preserve"><value>Libija</value></data>
+	<data name="MA" xml:space="preserve"><value>Maroko</value></data>
+	<data name="MC" xml:space="preserve"><value>Monako</value></data>
+	<data name="MD" xml:space="preserve"><value>Moldavija</value></data>
+	<data name="ME" xml:space="preserve"><value>Crna Gora</value></data>
+	<data name="MF" xml:space="preserve"><value>Sv. Martin</value></data>
+	<data name="MG" xml:space="preserve"><value>Madagaskar</value></data>
+	<data name="MH" xml:space="preserve"><value>Maršalova Ostrva</value></data>
+	<data name="MK" xml:space="preserve"><value>Sjeverna Makedonija</value></data>
+	<data name="ML" xml:space="preserve"><value>Mali</value></data>
+	<data name="MM" xml:space="preserve"><value>Mijanmar</value></data>
+	<data name="MN" xml:space="preserve"><value>Mongolija</value></data>
+	<data name="MO" xml:space="preserve"><value>Makao (SAR Kina)</value></data>
+	<data name="MP" xml:space="preserve"><value>Sjeverna Marijanska Ostrva</value></data>
+	<data name="MQ" xml:space="preserve"><value>Martinik</value></data>
+	<data name="MR" xml:space="preserve"><value>Mauritanija</value></data>
+	<data name="MS" xml:space="preserve"><value>Monserat</value></data>
+	<data name="MT" xml:space="preserve"><value>Malta</value></data>
+	<data name="MU" xml:space="preserve"><value>Mauricijus</value></data>
+	<data name="MV" xml:space="preserve"><value>Maldivi</value></data>
+	<data name="MW" xml:space="preserve"><value>Malavi</value></data>
+	<data name="MX" xml:space="preserve"><value>Meksiko</value></data>
+	<data name="MY" xml:space="preserve"><value>Malezija</value></data>
+	<data name="MZ" xml:space="preserve"><value>Mozambik</value></data>
+	<data name="NA" xml:space="preserve"><value>Namibija</value></data>
+	<data name="NC" xml:space="preserve"><value>Nova Kaledonija</value></data>
+	<data name="NE" xml:space="preserve"><value>Niger</value></data>
+	<data name="NF" xml:space="preserve"><value>Ostrvo Norfolk</value></data>
+	<data name="NG" xml:space="preserve"><value>Nigerija</value></data>
+	<data name="NI" xml:space="preserve"><value>Nikaragva</value></data>
+	<data name="NL" xml:space="preserve"><value>Holandija</value></data>
+	<data name="NO" xml:space="preserve"><value>Norveška</value></data>
+	<data name="NP" xml:space="preserve"><value>Nepal</value></data>
+	<data name="NR" xml:space="preserve"><value>Nauru</value></data>
+	<data name="NU" xml:space="preserve"><value>Niue</value></data>
+	<data name="NZ" xml:space="preserve"><value>Novi Zeland</value></data>
+	<data name="OM" xml:space="preserve"><value>Oman</value></data>
+	<data name="PA" xml:space="preserve"><value>Panama</value></data>
+	<data name="PE" xml:space="preserve"><value>Peru</value></data>
+	<data name="PF" xml:space="preserve"><value>Francuska Polinezija</value></data>
+	<data name="PG" xml:space="preserve"><value>Papua Nova Gvineja</value></data>
+	<data name="PH" xml:space="preserve"><value>Filipini</value></data>
+	<data name="PK" xml:space="preserve"><value>Pakistan</value></data>
+	<data name="PL" xml:space="preserve"><value>Poljska</value></data>
+	<data name="PM" xml:space="preserve"><value>Sveti Petar i Mikelon</value></data>
+	<data name="PN" xml:space="preserve"><value>Pitkernska Ostrva</value></data>
+	<data name="PR" xml:space="preserve"><value>Porto Riko</value></data>
+	<data name="PS" xml:space="preserve"><value>Palestinska Teritorija</value></data>
+	<data name="PT" xml:space="preserve"><value>Portugal</value></data>
+	<data name="PW" xml:space="preserve"><value>Palau</value></data>
+	<data name="PY" xml:space="preserve"><value>Paragvaj</value></data>
+	<data name="QA" xml:space="preserve"><value>Katar</value></data>
+	<data name="RE" xml:space="preserve"><value>Reunion</value></data>
+	<data name="RO" xml:space="preserve"><value>Rumunija</value></data>
+	<data name="RS" xml:space="preserve"><value>Srbija</value></data>
+	<data name="RU" xml:space="preserve"><value>Rusija</value></data>
+	<data name="RW" xml:space="preserve"><value>Ruanda</value></data>
+	<data name="SA" xml:space="preserve"><value>Saudijska Arabija</value></data>
+	<data name="SB" xml:space="preserve"><value>Solomonska Ostrva</value></data>
+	<data name="SC" xml:space="preserve"><value>Sejšeli</value></data>
+	<data name="SD" xml:space="preserve"><value>Sudan</value></data>
+	<data name="SE" xml:space="preserve"><value>Švedska</value></data>
+	<data name="SG" xml:space="preserve"><value>Singapur</value></data>
+	<data name="SH" xml:space="preserve"><value>Sveta Helena</value></data>
+	<data name="SI" xml:space="preserve"><value>Slovenija</value></data>
+	<data name="SJ" xml:space="preserve"><value>Svalbard i Jan Majen</value></data>
+	<data name="SK" xml:space="preserve"><value>Slovačka</value></data>
+	<data name="SL" xml:space="preserve"><value>Sijera Leone</value></data>
+	<data name="SM" xml:space="preserve"><value>San Marino</value></data>
+	<data name="SN" xml:space="preserve"><value>Senegal</value></data>
+	<data name="SO" xml:space="preserve"><value>Somalija</value></data>
+	<data name="SR" xml:space="preserve"><value>Surinam</value></data>
+	<data name="SS" xml:space="preserve"><value>Južni Sudan</value></data>
+	<data name="ST" xml:space="preserve"><value>Sao Tome i Principe</value></data>
+	<data name="SV" xml:space="preserve"><value>Salvador</value></data>
+	<data name="SX" xml:space="preserve"><value>Sint Marten</value></data>
+	<data name="SY" xml:space="preserve"><value>Sirija</value></data>
+	<data name="SZ" xml:space="preserve"><value>Svazilend</value></data>
+	<data name="TC" xml:space="preserve"><value>Ostrva Turks i Kaikos</value></data>
+	<data name="TD" xml:space="preserve"><value>Čad</value></data>
+	<data name="TF" xml:space="preserve"><value>Francuske Južne Teritorije</value></data>
+	<data name="TG" xml:space="preserve"><value>Togo</value></data>
+	<data name="TH" xml:space="preserve"><value>Tajland</value></data>
+	<data name="TJ" xml:space="preserve"><value>Tadžikistan</value></data>
+	<data name="TK" xml:space="preserve"><value>Tokelau</value></data>
+	<data name="TL" xml:space="preserve"><value>Istočni Timor</value></data>
+	<data name="TM" xml:space="preserve"><value>Turkmenistan</value></data>
+	<data name="TN" xml:space="preserve"><value>Tunis</value></data>
+	<data name="TO" xml:space="preserve"><value>Tonga</value></data>
+	<data name="TR" xml:space="preserve"><value>Turska</value></data>
+	<data name="TT" xml:space="preserve"><value>Trinidad i Tobago</value></data>
+	<data name="TV" xml:space="preserve"><value>Tuvalu</value></data>
+	<data name="TW" xml:space="preserve"><value>Tajvan</value></data>
+	<data name="TZ" xml:space="preserve"><value>Tanzanija</value></data>
+	<data name="UA" xml:space="preserve"><value>Ukrajina</value></data>
+	<data name="UG" xml:space="preserve"><value>Uganda</value></data>
+	<data name="UM" xml:space="preserve"><value>Američka Vanjska Ostrva</value></data>
+	<data name="US" xml:space="preserve"><value>Sjedinjene Američke Države</value></data>
+	<data name="UY" xml:space="preserve"><value>Urugvaj</value></data>
+	<data name="UZ" xml:space="preserve"><value>Uzbekistan</value></data>
+	<data name="VA" xml:space="preserve"><value>Vatikan</value></data>
+	<data name="VC" xml:space="preserve"><value>Sveti Vinsent i Grenadin</value></data>
+	<data name="VE" xml:space="preserve"><value>Venecuela</value></data>
+	<data name="VG" xml:space="preserve"><value>Britanska Djevičanska Ostrva</value></data>
+	<data name="VI" xml:space="preserve"><value>Američka Djevičanska Ostrva</value></data>
+	<data name="VN" xml:space="preserve"><value>Vijetnam</value></data>
+	<data name="VU" xml:space="preserve"><value>Vanuatu</value></data>
+	<data name="WF" xml:space="preserve"><value>Ostrva Valis i Futuna</value></data>
+	<data name="WS" xml:space="preserve"><value>Samoa</value></data>
+	<data name="XK" xml:space="preserve"><value>Kosovo</value></data>
+	<data name="YE" xml:space="preserve"><value>Jemen</value></data>
+	<data name="YT" xml:space="preserve"><value>Majote</value></data>
+	<data name="ZA" xml:space="preserve"><value>Južnoafrička Republika</value></data>
+	<data name="ZM" xml:space="preserve"><value>Zambija</value></data>
+	<data name="ZW" xml:space="preserve"><value>Zimbabve</value></data>
+</root>

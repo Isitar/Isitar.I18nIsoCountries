@@ -1,0 +1,256 @@
+<root>
+	<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+	<resheader name="version"><value>1.3</value></resheader>
+	<resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+	<resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+	<data name="AF" xml:space="preserve"><value>افغانستان</value></data>
+	<data name="AL" xml:space="preserve"><value>البانیاہ</value></data>
+	<data name="DZ" xml:space="preserve"><value>الجزائر</value></data>
+	<data name="AS" xml:space="preserve"><value>امریکی ساموا</value></data>
+	<data name="AD" xml:space="preserve"><value>اینڈورا</value></data>
+	<data name="AO" xml:space="preserve"><value>انگولا</value></data>
+	<data name="AI" xml:space="preserve"><value>انگویلا</value></data>
+	<data name="AQ" xml:space="preserve"><value>انٹارکٹیکا</value></data>
+	<data name="AG" xml:space="preserve"><value>انٹیگوا اور باربودا</value></data>
+	<data name="AR" xml:space="preserve"><value>ارجنٹینا</value></data>
+	<data name="AM" xml:space="preserve"><value>آرمینیا</value></data>
+	<data name="AW" xml:space="preserve"><value>اروبا</value></data>
+	<data name="AU" xml:space="preserve"><value>آسٹریلیا</value></data>
+	<data name="AT" xml:space="preserve"><value>آسٹریا</value></data>
+	<data name="AZ" xml:space="preserve"><value>آزربائیجان</value></data>
+	<data name="BS" xml:space="preserve"><value>بہاماس</value></data>
+	<data name="BH" xml:space="preserve"><value>بحرین</value></data>
+	<data name="BD" xml:space="preserve"><value>بنگلہ دیش</value></data>
+	<data name="BB" xml:space="preserve"><value>بارباڈوس</value></data>
+	<data name="BY" xml:space="preserve"><value>بیلاروس</value></data>
+	<data name="BE" xml:space="preserve"><value>بیلجیم</value></data>
+	<data name="BZ" xml:space="preserve"><value>بیلیز</value></data>
+	<data name="BJ" xml:space="preserve"><value>بینن</value></data>
+	<data name="BM" xml:space="preserve"><value>برمودا</value></data>
+	<data name="BT" xml:space="preserve"><value>بھوٹان</value></data>
+	<data name="BO" xml:space="preserve"><value>بولیویا</value></data>
+	<data name="BA" xml:space="preserve"><value>بوسنیا اور ہرزیگوینا</value></data>
+	<data name="BW" xml:space="preserve"><value>بوٹسوانا</value></data>
+	<data name="BV" xml:space="preserve"><value>جزیرہ بوویت</value></data>
+	<data name="BR" xml:space="preserve"><value>برازیل</value></data>
+	<data name="IO" xml:space="preserve"><value>بحرِہندکابرطانوی حصہ</value></data>
+	<data name="BN" xml:space="preserve"><value>برونائی دارالسلام</value></data>
+	<data name="BG" xml:space="preserve"><value>بلغاریہ</value></data>
+	<data name="BF" xml:space="preserve"><value>برکینا فاسو</value></data>
+	<data name="BI" xml:space="preserve"><value>برونڈی</value></data>
+	<data name="KH" xml:space="preserve"><value>کمبوڈیا</value></data>
+	<data name="CM" xml:space="preserve"><value>کیمرون</value></data>
+	<data name="CA" xml:space="preserve"><value>کینیڈا</value></data>
+	<data name="CV" xml:space="preserve"><value>کیپ وردے</value></data>
+	<data name="KY" xml:space="preserve"><value>جزائر کیمن</value></data>
+	<data name="CF" xml:space="preserve"><value>وسطی افریقی جمہوریہ</value></data>
+	<data name="TD" xml:space="preserve"><value>چاڈ</value></data>
+	<data name="CL" xml:space="preserve"><value>چلی</value></data>
+	<data name="CN" xml:space="preserve"><value>چین</value></data>
+	<data name="CX" xml:space="preserve"><value>کرسمس آئ لینڈ</value></data>
+	<data name="CC" xml:space="preserve"><value>کوکوس جزائر</value></data>
+	<data name="CO" xml:space="preserve"><value>کولمبیا</value></data>
+	<data name="KM" xml:space="preserve"><value>کوموروس</value></data>
+	<data name="CG" xml:space="preserve"><value>کانگو</value></data>
+	<data name="CD" xml:space="preserve"><value>عوامی جمہوریہِ کانگو</value></data>
+	<data name="CK" xml:space="preserve"><value>کوک آیلینڈ</value></data>
+	<data name="CR" xml:space="preserve"><value>کوسٹا ریکا</value></data>
+	<data name="CI" xml:space="preserve"><value>کوٹ ڈی آئیورائر</value></data>
+	<data name="HR" xml:space="preserve"><value>کروشیا</value></data>
+	<data name="CU" xml:space="preserve"><value>کیوبا</value></data>
+	<data name="CY" xml:space="preserve"><value>قبرص</value></data>
+	<data name="CZ" xml:space="preserve"><value>جمہوریہ چیک</value></data>
+	<data name="DK" xml:space="preserve"><value>ڈنمارک</value></data>
+	<data name="DJ" xml:space="preserve"><value>جبوتی</value></data>
+	<data name="DM" xml:space="preserve"><value>ڈومینیکا</value></data>
+	<data name="DO" xml:space="preserve"><value>ڈومینیکن ریپبلک</value></data>
+	<data name="EC" xml:space="preserve"><value>ایکواڈور</value></data>
+	<data name="EG" xml:space="preserve"><value>مصر</value></data>
+	<data name="SV" xml:space="preserve"><value>ال سلواڈور</value></data>
+	<data name="GQ" xml:space="preserve"><value>استوائی گنی</value></data>
+	<data name="ER" xml:space="preserve"><value>ایریٹریا</value></data>
+	<data name="EE" xml:space="preserve"><value>ایسٹونیا</value></data>
+	<data name="ET" xml:space="preserve"><value>ایتھوپیا</value></data>
+	<data name="FK" xml:space="preserve"><value>جزائر فاک لینڈ (مالویناس)</value></data>
+	<data name="FO" xml:space="preserve"><value>جزائرفارو</value></data>
+	<data name="FJ" xml:space="preserve"><value>فجی</value></data>
+	<data name="FI" xml:space="preserve"><value>فن لینڈ</value></data>
+	<data name="FR" xml:space="preserve"><value>فرانس</value></data>
+	<data name="GF" xml:space="preserve"><value>فرانسیسی گانا</value></data>
+	<data name="PF" xml:space="preserve"><value>فرانسیسی پولینیشیا</value></data>
+	<data name="TF" xml:space="preserve"><value>جنوبی فرانسیسی علاقہ جات</value></data>
+	<data name="GA" xml:space="preserve"><value>گبون</value></data>
+	<data name="GM" xml:space="preserve"><value>گیمبیا</value></data>
+	<data name="GE" xml:space="preserve"><value>جارجیا</value></data>
+	<data name="DE" xml:space="preserve"><value>جرمنی</value></data>
+	<data name="GH" xml:space="preserve"><value>گھانا</value></data>
+	<data name="GI" xml:space="preserve"><value>جبل الطارق</value></data>
+	<data name="GR" xml:space="preserve"><value>یونان</value></data>
+	<data name="GL" xml:space="preserve"><value>گرین لینڈ</value></data>
+	<data name="GD" xml:space="preserve"><value>گریناڈا</value></data>
+	<data name="GP" xml:space="preserve"><value>گواڈیلوپ</value></data>
+	<data name="GU" xml:space="preserve"><value>گوام</value></data>
+	<data name="GT" xml:space="preserve"><value>گوئٹے مالا</value></data>
+	<data name="GN" xml:space="preserve"><value>گنی</value></data>
+	<data name="GW" xml:space="preserve"><value>گنی بساؤ</value></data>
+	<data name="GY" xml:space="preserve"><value>گیوانا</value></data>
+	<data name="HT" xml:space="preserve"><value>ہیٹی</value></data>
+	<data name="HM" xml:space="preserve"><value>ہرڈ جزیرہ اور جزائر مکڈونلڈ</value></data>
+	<data name="VA" xml:space="preserve"><value>ہولی سی، ویٹیکن</value></data>
+	<data name="HN" xml:space="preserve"><value>ہنڈورس</value></data>
+	<data name="HK" xml:space="preserve"><value>ہانگ کانگ</value></data>
+	<data name="HU" xml:space="preserve"><value>ہنگری</value></data>
+	<data name="IS" xml:space="preserve"><value>آئس لینڈ</value></data>
+	<data name="IN" xml:space="preserve"><value>انڈیا</value></data>
+	<data name="ID" xml:space="preserve"><value>انڈونیشیا</value></data>
+	<data name="IR" xml:space="preserve"><value>اسلامی جمہوریہ ایران</value></data>
+	<data name="IQ" xml:space="preserve"><value>عراق</value></data>
+	<data name="IE" xml:space="preserve"><value>آئر لینڈ</value></data>
+	<data name="IL" xml:space="preserve"><value>اسرائیل</value></data>
+	<data name="IT" xml:space="preserve"><value>اٹلی</value></data>
+	<data name="JM" xml:space="preserve"><value>جمیکا</value></data>
+	<data name="JP" xml:space="preserve"><value>جاپان</value></data>
+	<data name="JO" xml:space="preserve"><value>اردن</value></data>
+	<data name="KZ" xml:space="preserve"><value>قازقستان</value></data>
+	<data name="KE" xml:space="preserve"><value>کینیا</value></data>
+	<data name="KI" xml:space="preserve"><value>کرباتی</value></data>
+	<data name="KP" xml:space="preserve"><value>شمالی کوریا</value></data>
+	<data name="KR" xml:space="preserve"><value>جنوبی کوریا</value></data>
+	<data name="KW" xml:space="preserve"><value>کویت</value></data>
+	<data name="KG" xml:space="preserve"><value>کرغزستان</value></data>
+	<data name="LA" xml:space="preserve"><value>عوامی جمہوریہِ لاوء</value></data>
+	<data name="LV" xml:space="preserve"><value>لیٹویا</value></data>
+	<data name="LB" xml:space="preserve"><value>لبنان</value></data>
+	<data name="LS" xml:space="preserve"><value>لیسوتھو</value></data>
+	<data name="LR" xml:space="preserve"><value>لائبیریا</value></data>
+	<data name="LY" xml:space="preserve"><value>لیبیا</value></data>
+	<data name="LI" xml:space="preserve"><value>لیچسٹنسٹین</value></data>
+	<data name="LT" xml:space="preserve"><value>لیتھوانیا</value></data>
+	<data name="LU" xml:space="preserve"><value>لکسمبرگ</value></data>
+	<data name="MO" xml:space="preserve"><value>مکاؤ</value></data>
+	<data name="MG" xml:space="preserve"><value>مڈغاسکر</value></data>
+	<data name="MW" xml:space="preserve"><value>ملاوی</value></data>
+	<data name="MY" xml:space="preserve"><value>ملائیشیا</value></data>
+	<data name="MV" xml:space="preserve"><value>مالدیپ</value></data>
+	<data name="ML" xml:space="preserve"><value>مالی</value></data>
+	<data name="MT" xml:space="preserve"><value>مالٹا</value></data>
+	<data name="MH" xml:space="preserve"><value>مارشل جزائر</value></data>
+	<data name="MQ" xml:space="preserve"><value>مارٹنیک</value></data>
+	<data name="MR" xml:space="preserve"><value>موریطانیہ</value></data>
+	<data name="MU" xml:space="preserve"><value>ماریشس</value></data>
+	<data name="YT" xml:space="preserve"><value>میٹو</value></data>
+	<data name="MX" xml:space="preserve"><value>میکسیکو</value></data>
+	<data name="FM" xml:space="preserve"><value>مائیکرونیشیا</value></data>
+	<data name="MD" xml:space="preserve"><value>جمہوریہ مالڈووا</value></data>
+	<data name="MC" xml:space="preserve"><value>موناکو</value></data>
+	<data name="MN" xml:space="preserve"><value>منگولیا</value></data>
+	<data name="MS" xml:space="preserve"><value>مونٹسیریٹ</value></data>
+	<data name="MA" xml:space="preserve"><value>مراکش</value></data>
+	<data name="MZ" xml:space="preserve"><value>موزمبیق</value></data>
+	<data name="MM" xml:space="preserve"><value>میانمار</value></data>
+	<data name="NA" xml:space="preserve"><value>نامیبیا</value></data>
+	<data name="NR" xml:space="preserve"><value>نورو</value></data>
+	<data name="NP" xml:space="preserve"><value>نیپال</value></data>
+	<data name="NL" xml:space="preserve"><value>نیدرلینڈ</value></data>
+	<data name="NC" xml:space="preserve"><value>نیو کالیڈونیا</value></data>
+	<data name="NZ" xml:space="preserve"><value>نیوزی لینڈ</value></data>
+	<data name="NI" xml:space="preserve"><value>نکاراگوا</value></data>
+	<data name="NE" xml:space="preserve"><value>نائجر</value></data>
+	<data name="NG" xml:space="preserve"><value>نائجیریا</value></data>
+	<data name="NU" xml:space="preserve"><value>نییو</value></data>
+	<data name="NF" xml:space="preserve"><value>جزیرہ نورفوک</value></data>
+	<data name="MP" xml:space="preserve"><value>شمالی ماریانا جزائر</value></data>
+	<data name="MK" xml:space="preserve"><value>شمالی مقدونیہ</value></data>
+	<data name="NO" xml:space="preserve"><value>ناروے</value></data>
+	<data name="OM" xml:space="preserve"><value>عمان</value></data>
+	<data name="PK" xml:space="preserve"><value>پاکستان</value></data>
+	<data name="PW" xml:space="preserve"><value>پالاؤ</value></data>
+	<data name="PS" xml:space="preserve"><value>فلسطین</value></data>
+	<data name="PA" xml:space="preserve"><value>پاناما</value></data>
+	<data name="PG" xml:space="preserve"><value>پاپوا نیو گنی</value></data>
+	<data name="PY" xml:space="preserve"><value>پیراگوئے</value></data>
+	<data name="PE" xml:space="preserve"><value>پیرو</value></data>
+	<data name="PH" xml:space="preserve"><value>فلپائن</value></data>
+	<data name="PN" xml:space="preserve"><value>پٹکیرن</value></data>
+	<data name="PL" xml:space="preserve"><value>پولینڈ</value></data>
+	<data name="PT" xml:space="preserve"><value>پرتگال</value></data>
+	<data name="PR" xml:space="preserve"><value>پورٹو ریکو</value></data>
+	<data name="QA" xml:space="preserve"><value>قطر</value></data>
+	<data name="RE" xml:space="preserve"><value>ری یونین</value></data>
+	<data name="RO" xml:space="preserve"><value>رومانیہ</value></data>
+	<data name="RU" xml:space="preserve"><value>روس</value></data>
+	<data name="RW" xml:space="preserve"><value>روانڈا</value></data>
+	<data name="SH" xml:space="preserve"><value>سینٹ ہیلینا</value></data>
+	<data name="KN" xml:space="preserve"><value>سینٹ کٹس اور نیویس</value></data>
+	<data name="LC" xml:space="preserve"><value>سینٹ لوسیا</value></data>
+	<data name="PM" xml:space="preserve"><value>سینٹ پیئر و میکوئیلون</value></data>
+	<data name="VC" xml:space="preserve"><value>سینٹ ونسنٹ اور گریناڈینز</value></data>
+	<data name="WS" xml:space="preserve"><value>ساموآ</value></data>
+	<data name="SM" xml:space="preserve"><value>سان مارینو</value></data>
+	<data name="ST" xml:space="preserve"><value>ساؤ ٹوم اور پرنسپے</value></data>
+	<data name="SA" xml:space="preserve"><value>سعودی عرب</value></data>
+	<data name="SN" xml:space="preserve"><value>سینیگال</value></data>
+	<data name="SC" xml:space="preserve"><value>سیچیلز</value></data>
+	<data name="SL" xml:space="preserve"><value>سیرا لیون</value></data>
+	<data name="SG" xml:space="preserve"><value>سنگاپور</value></data>
+	<data name="SK" xml:space="preserve"><value>سلوواکیا</value></data>
+	<data name="SI" xml:space="preserve"><value>سلووینیا</value></data>
+	<data name="SB" xml:space="preserve"><value>جزائرِ سولومن</value></data>
+	<data name="SO" xml:space="preserve"><value>صومالیہ</value></data>
+	<data name="ZA" xml:space="preserve"><value>جنوبی افریقہ</value></data>
+	<data name="GS" xml:space="preserve"><value>جنوبی جارجیا اور جزائر جنوبی سینڈوچ</value></data>
+	<data name="ES" xml:space="preserve"><value>سپین</value></data>
+	<data name="LK" xml:space="preserve"><value>سری لنکا</value></data>
+	<data name="SD" xml:space="preserve"><value>سوڈان</value></data>
+	<data name="SR" xml:space="preserve"><value>سورینام</value></data>
+	<data name="SJ" xml:space="preserve"><value>سوولبارڈ اور جان میین</value></data>
+	<data name="SZ" xml:space="preserve"><value>سوزیلینڈ</value></data>
+	<data name="SE" xml:space="preserve"><value>سویڈن</value></data>
+	<data name="CH" xml:space="preserve"><value>سوئٹزرلینڈ</value></data>
+	<data name="SY" xml:space="preserve"><value>شام</value></data>
+	<data name="TW" xml:space="preserve"><value>تائیوان</value></data>
+	<data name="TJ" xml:space="preserve"><value>تاجکستان</value></data>
+	<data name="TZ" xml:space="preserve"><value>تنزانیہ</value></data>
+	<data name="TH" xml:space="preserve"><value>تھائی لینڈ</value></data>
+	<data name="TL" xml:space="preserve"><value>تیمور-لیس</value></data>
+	<data name="TG" xml:space="preserve"><value>ٹوگو</value></data>
+	<data name="TK" xml:space="preserve"><value>ٹوکیلو</value></data>
+	<data name="TO" xml:space="preserve"><value>ٹونگا</value></data>
+	<data name="TT" xml:space="preserve"><value>ٹرینیڈاڈ اور ٹوباگو</value></data>
+	<data name="TN" xml:space="preserve"><value>تیونس</value></data>
+	<data name="TR" xml:space="preserve"><value>ترکی</value></data>
+	<data name="TM" xml:space="preserve"><value>ترکمنستان</value></data>
+	<data name="TC" xml:space="preserve"><value>ترکی اور کیکوس جزائر</value></data>
+	<data name="TV" xml:space="preserve"><value>تووالو</value></data>
+	<data name="UG" xml:space="preserve"><value>یوگنڈا</value></data>
+	<data name="UA" xml:space="preserve"><value>یوکرین</value></data>
+	<data name="AE" xml:space="preserve"><value>متحدہ عرب امارات</value></data>
+	<data name="GB" xml:space="preserve"><value>برطانیہ</value></data>
+	<data name="US" xml:space="preserve"><value>ریاست ہائے متحدہ امریکہ</value></data>
+	<data name="UM" xml:space="preserve"><value>ریاست ہائے متحدہ امریکہ کے علیحدہ چھوٹے جزائر</value></data>
+	<data name="UY" xml:space="preserve"><value>یوراگوئے</value></data>
+	<data name="UZ" xml:space="preserve"><value>ازبکستان</value></data>
+	<data name="VU" xml:space="preserve"><value>وانوات</value></data>
+	<data name="VE" xml:space="preserve"><value>وینزویلا</value></data>
+	<data name="VN" xml:space="preserve"><value>ویت نام</value></data>
+	<data name="VG" xml:space="preserve"><value>جزائرِورجن، برطانوی</value></data>
+	<data name="VI" xml:space="preserve"><value>جزائرِورجن، امریکی</value></data>
+	<data name="WF" xml:space="preserve"><value>والس اور فتونہ</value></data>
+	<data name="EH" xml:space="preserve"><value>مغربی صحارا</value></data>
+	<data name="YE" xml:space="preserve"><value>یمن</value></data>
+	<data name="ZM" xml:space="preserve"><value>زامبیا</value></data>
+	<data name="ZW" xml:space="preserve"><value>زمبابوے</value></data>
+	<data name="AX" xml:space="preserve"><value>جزائرِ آلند</value></data>
+	<data name="BQ" xml:space="preserve"><value>بونیرے, سینٹ یستتئوس اینڈ صبا</value></data>
+	<data name="CW" xml:space="preserve"><value>کیوراساؤ</value></data>
+	<data name="GG" xml:space="preserve"><value>گرنسی</value></data>
+	<data name="IM" xml:space="preserve"><value>آیل آف مین</value></data>
+	<data name="JE" xml:space="preserve"><value>جرسی</value></data>
+	<data name="ME" xml:space="preserve"><value>مونٹینیگرو</value></data>
+	<data name="BL" xml:space="preserve"><value>سینٹ باریٹی</value></data>
+	<data name="MF" xml:space="preserve"><value>سینٹ مارٹن (فرانسیسی حصہ)</value></data>
+	<data name="RS" xml:space="preserve"><value>سربیا</value></data>
+	<data name="SX" xml:space="preserve"><value>سینٹ مارٹن (ولندیزی حصہ)</value></data>
+	<data name="SS" xml:space="preserve"><value>جنوبی سوڈان</value></data>
+	<data name="XK" xml:space="preserve"><value>کوسوو</value></data>
+</root>

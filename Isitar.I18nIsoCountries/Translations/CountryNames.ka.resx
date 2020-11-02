@@ -1,0 +1,256 @@
+<root>
+	<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+	<resheader name="version"><value>1.3</value></resheader>
+	<resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+	<resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+	<data name="AD" xml:space="preserve"><value>ანდორა</value></data>
+	<data name="AE" xml:space="preserve"><value>არაბთა გაერთიანებული საამიროები</value></data>
+	<data name="AF" xml:space="preserve"><value>ავღანეთი</value></data>
+	<data name="AG" xml:space="preserve"><value>ანტიგუა და ბარბუდა</value></data>
+	<data name="AI" xml:space="preserve"><value>ანგვილა</value></data>
+	<data name="AL" xml:space="preserve"><value>ალბანეთი</value></data>
+	<data name="AM" xml:space="preserve"><value>სომხეთი</value></data>
+	<data name="AO" xml:space="preserve"><value>ანგოლა</value></data>
+	<data name="AQ" xml:space="preserve"><value>ანტარქტიკა</value></data>
+	<data name="AR" xml:space="preserve"><value>არგენტინა</value></data>
+	<data name="AS" xml:space="preserve"><value>ამერიკის სამოა</value></data>
+	<data name="AT" xml:space="preserve"><value>ავსტრია</value></data>
+	<data name="AU" xml:space="preserve"><value>ავსტრალია</value></data>
+	<data name="AW" xml:space="preserve"><value>არუბა</value></data>
+	<data name="AX" xml:space="preserve"><value>ალანდის კუნძულები</value></data>
+	<data name="AZ" xml:space="preserve"><value>აზერბაიჯანი</value></data>
+	<data name="BA" xml:space="preserve"><value>ბოსნია და ჰერცეგოვინა</value></data>
+	<data name="BB" xml:space="preserve"><value>ბარბადოსი</value></data>
+	<data name="BD" xml:space="preserve"><value>ბანგლადეში</value></data>
+	<data name="BE" xml:space="preserve"><value>ბელგია</value></data>
+	<data name="BF" xml:space="preserve"><value>ბურკინა-ფასო</value></data>
+	<data name="BG" xml:space="preserve"><value>ბულგარეთი</value></data>
+	<data name="BH" xml:space="preserve"><value>ბაჰრეინი</value></data>
+	<data name="BI" xml:space="preserve"><value>ბურუნდი</value></data>
+	<data name="BJ" xml:space="preserve"><value>ბენინი</value></data>
+	<data name="BL" xml:space="preserve"><value>სენ-ბართელმი</value></data>
+	<data name="BM" xml:space="preserve"><value>ბერმუდა</value></data>
+	<data name="BN" xml:space="preserve"><value>ბრუნეი</value></data>
+	<data name="BO" xml:space="preserve"><value>ბოლივია</value></data>
+	<data name="BQ" xml:space="preserve"><value>კარიბის ნიდერლანდები</value></data>
+	<data name="BR" xml:space="preserve"><value>ბრაზილია</value></data>
+	<data name="BS" xml:space="preserve"><value>ბაჰამის კუნძულები</value></data>
+	<data name="BT" xml:space="preserve"><value>ბუტანი</value></data>
+	<data name="BV" xml:space="preserve"><value>ბუვე</value></data>
+	<data name="BW" xml:space="preserve"><value>ბოტსვანა</value></data>
+	<data name="BY" xml:space="preserve"><value>ბელარუსი</value></data>
+	<data name="BZ" xml:space="preserve"><value>ბელიზი</value></data>
+	<data name="CA" xml:space="preserve"><value>კანადა</value></data>
+	<data name="CC" xml:space="preserve"><value>ქოქოსის (კილინგის) კუნძულები</value></data>
+	<data name="CD" xml:space="preserve"><value>კონგო - კინშასა</value></data>
+	<data name="CF" xml:space="preserve"><value>ცენტრალური აფრიკის რესპუბლიკა</value></data>
+	<data name="CG" xml:space="preserve"><value>კონგო - ბრაზავილი</value></data>
+	<data name="CH" xml:space="preserve"><value>შვეიცარია</value></data>
+	<data name="CI" xml:space="preserve"><value>კოტ-დივუარი</value></data>
+	<data name="CK" xml:space="preserve"><value>კუკის კუნძულები</value></data>
+	<data name="CL" xml:space="preserve"><value>ჩილე</value></data>
+	<data name="CM" xml:space="preserve"><value>კამერუნი</value></data>
+	<data name="CN" xml:space="preserve"><value>ჩინეთი</value></data>
+	<data name="CO" xml:space="preserve"><value>კოლუმბია</value></data>
+	<data name="CR" xml:space="preserve"><value>კოსტა-რიკა</value></data>
+	<data name="CU" xml:space="preserve"><value>კუბა</value></data>
+	<data name="CV" xml:space="preserve"><value>კაბო-ვერდე</value></data>
+	<data name="CW" xml:space="preserve"><value>კიურასაო</value></data>
+	<data name="CX" xml:space="preserve"><value>შობის კუნძული</value></data>
+	<data name="CY" xml:space="preserve"><value>კვიპროსი</value></data>
+	<data name="CZ" xml:space="preserve"><value>ჩეხეთის რესპუბლიკა</value></data>
+	<data name="DE" xml:space="preserve"><value>გერმანია</value></data>
+	<data name="DJ" xml:space="preserve"><value>ჯიბუტი</value></data>
+	<data name="DK" xml:space="preserve"><value>დანია</value></data>
+	<data name="DM" xml:space="preserve"><value>დომინიკა</value></data>
+	<data name="DO" xml:space="preserve"><value>დომინიკელთა რესპუბლიკა</value></data>
+	<data name="DZ" xml:space="preserve"><value>ალჟირი</value></data>
+	<data name="EC" xml:space="preserve"><value>ეკვადორი</value></data>
+	<data name="EE" xml:space="preserve"><value>ესტონეთი</value></data>
+	<data name="EG" xml:space="preserve"><value>ეგვიპტე</value></data>
+	<data name="EH" xml:space="preserve"><value>დასავლეთ საჰარა</value></data>
+	<data name="ER" xml:space="preserve"><value>ერიტრეა</value></data>
+	<data name="ES" xml:space="preserve"><value>ესპანეთი</value></data>
+	<data name="ET" xml:space="preserve"><value>ეთიოპია</value></data>
+	<data name="FI" xml:space="preserve"><value>ფინეთი</value></data>
+	<data name="FJ" xml:space="preserve"><value>ფიჯი</value></data>
+	<data name="FK" xml:space="preserve"><value>ფოლკლენდის კუნძულები</value></data>
+	<data name="FM" xml:space="preserve"><value>მიკრონეზია</value></data>
+	<data name="FO" xml:space="preserve"><value>ფარერის კუნძულები</value></data>
+	<data name="FR" xml:space="preserve"><value>საფრანგეთი</value></data>
+	<data name="GA" xml:space="preserve"><value>გაბონი</value></data>
+	<data name="GB" xml:space="preserve"><value>გაერთიანებული სამეფო</value></data>
+	<data name="GD" xml:space="preserve"><value>გრენადა</value></data>
+	<data name="GE" xml:space="preserve"><value>საქართველო</value></data>
+	<data name="GF" xml:space="preserve"><value>საფრანგეთის გვიანა</value></data>
+	<data name="GG" xml:space="preserve"><value>გერნსი</value></data>
+	<data name="GH" xml:space="preserve"><value>განა</value></data>
+	<data name="GI" xml:space="preserve"><value>გიბრალტარი</value></data>
+	<data name="GL" xml:space="preserve"><value>გრენლანდია</value></data>
+	<data name="GM" xml:space="preserve"><value>გამბია</value></data>
+	<data name="GN" xml:space="preserve"><value>გვინეა</value></data>
+	<data name="GP" xml:space="preserve"><value>გვადელუპა</value></data>
+	<data name="GQ" xml:space="preserve"><value>ეკვატორული გვინეა</value></data>
+	<data name="GR" xml:space="preserve"><value>საბერძნეთი</value></data>
+	<data name="GS" xml:space="preserve"><value>სამხრეთ ჯორჯია და სამხრეთ სენდვიჩის კუნძულები</value></data>
+	<data name="GT" xml:space="preserve"><value>გვატემალა</value></data>
+	<data name="GU" xml:space="preserve"><value>გუამი</value></data>
+	<data name="GW" xml:space="preserve"><value>გვინეა-ბისაუ</value></data>
+	<data name="GY" xml:space="preserve"><value>გაიანა</value></data>
+	<data name="HK" xml:space="preserve"><value>ჰონკონგი</value></data>
+	<data name="HM" xml:space="preserve"><value>ჰერდი და მაკდონალდის კუნძულები</value></data>
+	<data name="HN" xml:space="preserve"><value>ჰონდურასი</value></data>
+	<data name="HR" xml:space="preserve"><value>ხორვატია</value></data>
+	<data name="HT" xml:space="preserve"><value>ჰაიტი</value></data>
+	<data name="HU" xml:space="preserve"><value>უნგრეთი</value></data>
+	<data name="ID" xml:space="preserve"><value>ინდონეზია</value></data>
+	<data name="IE" xml:space="preserve"><value>ირლანდია</value></data>
+	<data name="IL" xml:space="preserve"><value>ისრაელი</value></data>
+	<data name="IM" xml:space="preserve"><value>მენის კუნძული</value></data>
+	<data name="IN" xml:space="preserve"><value>ინდოეთი</value></data>
+	<data name="IO" xml:space="preserve"><value>ბრიტანეთის ტერიტორია ინდოეთის ოკეანეში</value></data>
+	<data name="IQ" xml:space="preserve"><value>ერაყი</value></data>
+	<data name="IR" xml:space="preserve"><value>ირანი</value></data>
+	<data name="IS" xml:space="preserve"><value>ისლანდია</value></data>
+	<data name="IT" xml:space="preserve"><value>იტალია</value></data>
+	<data name="JE" xml:space="preserve"><value>ჯერსი</value></data>
+	<data name="JM" xml:space="preserve"><value>იამაიკა</value></data>
+	<data name="JO" xml:space="preserve"><value>იორდანია</value></data>
+	<data name="JP" xml:space="preserve"><value>იაპონია</value></data>
+	<data name="KE" xml:space="preserve"><value>კენია</value></data>
+	<data name="KG" xml:space="preserve"><value>ყირგიზეთი</value></data>
+	<data name="KH" xml:space="preserve"><value>კამბოჯა</value></data>
+	<data name="KI" xml:space="preserve"><value>კირიბატი</value></data>
+	<data name="KM" xml:space="preserve"><value>კომორის კუნძულები</value></data>
+	<data name="KN" xml:space="preserve"><value>სენტ-კიტსი და ნევისი</value></data>
+	<data name="KP" xml:space="preserve"><value>ჩრდილოეთ კორეა</value></data>
+	<data name="KR" xml:space="preserve"><value>სამხრეთ კორეა</value></data>
+	<data name="KW" xml:space="preserve"><value>ქუვეითი</value></data>
+	<data name="KY" xml:space="preserve"><value>კაიმანის კუნძულები</value></data>
+	<data name="KZ" xml:space="preserve"><value>ყაზახეთი</value></data>
+	<data name="LA" xml:space="preserve"><value>ლაოსი</value></data>
+	<data name="LB" xml:space="preserve"><value>ლიბანი</value></data>
+	<data name="LC" xml:space="preserve"><value>სენტ-ლუსია</value></data>
+	<data name="LI" xml:space="preserve"><value>ლიხტენშტაინი</value></data>
+	<data name="LK" xml:space="preserve"><value>შრი-ლანკა</value></data>
+	<data name="LR" xml:space="preserve"><value>ლიბერია</value></data>
+	<data name="LS" xml:space="preserve"><value>ლესოთო</value></data>
+	<data name="LT" xml:space="preserve"><value>ლიტვა</value></data>
+	<data name="LU" xml:space="preserve"><value>ლუქსემბურგი</value></data>
+	<data name="LV" xml:space="preserve"><value>ლატვია</value></data>
+	<data name="LY" xml:space="preserve"><value>ლიბია</value></data>
+	<data name="MA" xml:space="preserve"><value>მაროკო</value></data>
+	<data name="MC" xml:space="preserve"><value>მონაკო</value></data>
+	<data name="MD" xml:space="preserve"><value>მოლდოვა</value></data>
+	<data name="ME" xml:space="preserve"><value>მონტენეგრო</value></data>
+	<data name="MF" xml:space="preserve"><value>სენ-მარტენი</value></data>
+	<data name="MG" xml:space="preserve"><value>მადაგასკარი</value></data>
+	<data name="MH" xml:space="preserve"><value>მარშალის კუნძულები</value></data>
+	<data name="MK" xml:space="preserve"><value>ჩრდილოეთი მაკედონია</value></data>
+	<data name="ML" xml:space="preserve"><value>მალი</value></data>
+	<data name="MM" xml:space="preserve"><value>მიანმარი (ბირმა)</value></data>
+	<data name="MN" xml:space="preserve"><value>მონღოლეთი</value></data>
+	<data name="MO" xml:space="preserve"><value>მაკაო</value></data>
+	<data name="MP" xml:space="preserve"><value>ჩრდილოეთ მარიანას კუნძულები</value></data>
+	<data name="MQ" xml:space="preserve"><value>მარტინიკა</value></data>
+	<data name="MR" xml:space="preserve"><value>მავრიტანია</value></data>
+	<data name="MS" xml:space="preserve"><value>მონსერატი</value></data>
+	<data name="MT" xml:space="preserve"><value>მალტა</value></data>
+	<data name="MU" xml:space="preserve"><value>მავრიკი</value></data>
+	<data name="MV" xml:space="preserve"><value>მალდივები</value></data>
+	<data name="MW" xml:space="preserve"><value>მალავი</value></data>
+	<data name="MX" xml:space="preserve"><value>მექსიკა</value></data>
+	<data name="MY" xml:space="preserve"><value>მალაიზია</value></data>
+	<data name="MZ" xml:space="preserve"><value>მოზამბიკი</value></data>
+	<data name="NA" xml:space="preserve"><value>ნამიბია</value></data>
+	<data name="NC" xml:space="preserve"><value>ახალი კალედონია</value></data>
+	<data name="NE" xml:space="preserve"><value>ნიგერი</value></data>
+	<data name="NF" xml:space="preserve"><value>ნორფოლკის კუნძული</value></data>
+	<data name="NG" xml:space="preserve"><value>ნიგერია</value></data>
+	<data name="NI" xml:space="preserve"><value>ნიკარაგუა</value></data>
+	<data name="NL" xml:space="preserve"><value>ნიდერლანდები</value></data>
+	<data name="NO" xml:space="preserve"><value>ნორვეგია</value></data>
+	<data name="NP" xml:space="preserve"><value>ნეპალი</value></data>
+	<data name="NR" xml:space="preserve"><value>ნაურუ</value></data>
+	<data name="NU" xml:space="preserve"><value>ნიუე</value></data>
+	<data name="NZ" xml:space="preserve"><value>ახალი ზელანდია</value></data>
+	<data name="OM" xml:space="preserve"><value>ომანი</value></data>
+	<data name="PA" xml:space="preserve"><value>პანამა</value></data>
+	<data name="PE" xml:space="preserve"><value>პერუ</value></data>
+	<data name="PF" xml:space="preserve"><value>საფრანგეთის პოლინეზია</value></data>
+	<data name="PG" xml:space="preserve"><value>პაპუა-ახალი გვინეა</value></data>
+	<data name="PH" xml:space="preserve"><value>ფილიპინები</value></data>
+	<data name="PK" xml:space="preserve"><value>პაკისტანი</value></data>
+	<data name="PL" xml:space="preserve"><value>პოლონეთი</value></data>
+	<data name="PM" xml:space="preserve"><value>სენ-პიერი და მიკელონი</value></data>
+	<data name="PN" xml:space="preserve"><value>პიტკერნის კუნძულები</value></data>
+	<data name="PR" xml:space="preserve"><value>პუერტო-რიკო</value></data>
+	<data name="PS" xml:space="preserve"><value>პალესტინის ტერიტორიები</value></data>
+	<data name="PT" xml:space="preserve"><value>პორტუგალია</value></data>
+	<data name="PW" xml:space="preserve"><value>პალაუ</value></data>
+	<data name="PY" xml:space="preserve"><value>პარაგვაი</value></data>
+	<data name="QA" xml:space="preserve"><value>კატარი</value></data>
+	<data name="RE" xml:space="preserve"><value>რეუნიონი</value></data>
+	<data name="RO" xml:space="preserve"><value>რუმინეთი</value></data>
+	<data name="RS" xml:space="preserve"><value>სერბეთი</value></data>
+	<data name="RU" xml:space="preserve"><value>რუსეთი</value></data>
+	<data name="RW" xml:space="preserve"><value>რუანდა</value></data>
+	<data name="SA" xml:space="preserve"><value>საუდის არაბეთი</value></data>
+	<data name="SB" xml:space="preserve"><value>სოლომონის კუნძულები</value></data>
+	<data name="SC" xml:space="preserve"><value>სეიშელის კუნძულები</value></data>
+	<data name="SD" xml:space="preserve"><value>სუდანი</value></data>
+	<data name="SE" xml:space="preserve"><value>შვედეთი</value></data>
+	<data name="SG" xml:space="preserve"><value>სინგაპური</value></data>
+	<data name="SH" xml:space="preserve"><value>წმინდა ელენეს კუნძული</value></data>
+	<data name="SI" xml:space="preserve"><value>სლოვენია</value></data>
+	<data name="SJ" xml:space="preserve"><value>შპიცბერგენი და იან-მაიენი</value></data>
+	<data name="SK" xml:space="preserve"><value>სლოვაკეთი</value></data>
+	<data name="SL" xml:space="preserve"><value>სიერა-ლეონე</value></data>
+	<data name="SM" xml:space="preserve"><value>სან-მარინო</value></data>
+	<data name="SN" xml:space="preserve"><value>სენეგალი</value></data>
+	<data name="SO" xml:space="preserve"><value>სომალი</value></data>
+	<data name="SR" xml:space="preserve"><value>სურინამი</value></data>
+	<data name="SS" xml:space="preserve"><value>სამხრეთ სუდანი</value></data>
+	<data name="ST" xml:space="preserve"><value>სან-ტომე და პრინსიპი</value></data>
+	<data name="SV" xml:space="preserve"><value>სალვადორი</value></data>
+	<data name="SX" xml:space="preserve"><value>სინტ-მარტენი</value></data>
+	<data name="SY" xml:space="preserve"><value>სირია</value></data>
+	<data name="SZ" xml:space="preserve"><value>სვაზილენდი</value></data>
+	<data name="TC" xml:space="preserve"><value>თერქს-ქაიქოსის კუნძულები</value></data>
+	<data name="TD" xml:space="preserve"><value>ჩადი</value></data>
+	<data name="TF" xml:space="preserve"><value>ფრანგული სამხრეთის ტერიტორიები</value></data>
+	<data name="TG" xml:space="preserve"><value>ტოგო</value></data>
+	<data name="TH" xml:space="preserve"><value>ტაილანდი</value></data>
+	<data name="TJ" xml:space="preserve"><value>ტაჯიკეთი</value></data>
+	<data name="TK" xml:space="preserve"><value>ტოკელაუ</value></data>
+	<data name="TL" xml:space="preserve"><value>ტიმორ-ლესტე</value></data>
+	<data name="TM" xml:space="preserve"><value>თურქმენეთი</value></data>
+	<data name="TN" xml:space="preserve"><value>ტუნისი</value></data>
+	<data name="TO" xml:space="preserve"><value>ტონგა</value></data>
+	<data name="TR" xml:space="preserve"><value>თურქეთი</value></data>
+	<data name="TT" xml:space="preserve"><value>ტრინიდადი და ტობაგო</value></data>
+	<data name="TV" xml:space="preserve"><value>ტუვალუ</value></data>
+	<data name="TW" xml:space="preserve"><value>ტაივანი</value></data>
+	<data name="TZ" xml:space="preserve"><value>ტანზანია</value></data>
+	<data name="UA" xml:space="preserve"><value>უკრაინა</value></data>
+	<data name="UG" xml:space="preserve"><value>უგანდა</value></data>
+	<data name="UM" xml:space="preserve"><value>აშშ-ის შორეული კუნძულები</value></data>
+	<data name="US" xml:space="preserve"><value>ამერიკის შეერთებული შტატები</value></data>
+	<data name="UY" xml:space="preserve"><value>ურუგვაი</value></data>
+	<data name="UZ" xml:space="preserve"><value>უზბეკეთი</value></data>
+	<data name="VA" xml:space="preserve"><value>ქალაქი ვატიკანი</value></data>
+	<data name="VC" xml:space="preserve"><value>სენტ-ვინსენტი და გრენადინები</value></data>
+	<data name="VE" xml:space="preserve"><value>ვენესუელა</value></data>
+	<data name="VG" xml:space="preserve"><value>ბრიტანეთის ვირჯინის კუნძულები</value></data>
+	<data name="VI" xml:space="preserve"><value>აშშ-ის ვირჯინის კუნძულები</value></data>
+	<data name="VN" xml:space="preserve"><value>ვიეტნამი</value></data>
+	<data name="VU" xml:space="preserve"><value>ვანუატუ</value></data>
+	<data name="WF" xml:space="preserve"><value>უოლისი და ფუტუნა</value></data>
+	<data name="WS" xml:space="preserve"><value>სამოა</value></data>
+	<data name="XK" xml:space="preserve"><value>კოსოვო</value></data>
+	<data name="YE" xml:space="preserve"><value>იემენი</value></data>
+	<data name="YT" xml:space="preserve"><value>მაიოტა</value></data>
+	<data name="ZA" xml:space="preserve"><value>სამხრეთ აფრიკის რესპუბლიკა</value></data>
+	<data name="ZM" xml:space="preserve"><value>ზამბია</value></data>
+	<data name="ZW" xml:space="preserve"><value>ზიმბაბვე</value></data>
+</root>

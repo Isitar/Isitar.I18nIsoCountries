@@ -1,0 +1,256 @@
+<root>
+	<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+	<resheader name="version"><value>1.3</value></resheader>
+	<resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+	<resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+	<data name="AD" xml:space="preserve"><value>Անդորրա</value></data>
+	<data name="AE" xml:space="preserve"><value>Արաբական Միացյալ Էմիրություններ</value></data>
+	<data name="AF" xml:space="preserve"><value>Աֆղանստան</value></data>
+	<data name="AG" xml:space="preserve"><value>Անտիգուա և Բարբուդա</value></data>
+	<data name="AI" xml:space="preserve"><value>Անգուիլա</value></data>
+	<data name="AL" xml:space="preserve"><value>Ալբանիա</value></data>
+	<data name="AM" xml:space="preserve"><value>Հայաստան</value></data>
+	<data name="AO" xml:space="preserve"><value>Անգոլա</value></data>
+	<data name="AQ" xml:space="preserve"><value>Անտարկտիդա</value></data>
+	<data name="AR" xml:space="preserve"><value>Արգենտինա</value></data>
+	<data name="AS" xml:space="preserve"><value>Ամերիկյան Սամոա</value></data>
+	<data name="AT" xml:space="preserve"><value>Ավստրիա</value></data>
+	<data name="AU" xml:space="preserve"><value>Ավստրալիա</value></data>
+	<data name="AW" xml:space="preserve"><value>Արուբա</value></data>
+	<data name="AX" xml:space="preserve"><value>Ալանդյան կղզիներ</value></data>
+	<data name="AZ" xml:space="preserve"><value>Ադրբեջան</value></data>
+	<data name="BA" xml:space="preserve"><value>Բոսնիա և Հերցեգովինա</value></data>
+	<data name="BB" xml:space="preserve"><value>Բարբադոս</value></data>
+	<data name="BD" xml:space="preserve"><value>Բանգլադեշ</value></data>
+	<data name="BE" xml:space="preserve"><value>Բելգիա</value></data>
+	<data name="BF" xml:space="preserve"><value>Բուրկինա Ֆասո</value></data>
+	<data name="BG" xml:space="preserve"><value>Բուլղարիա</value></data>
+	<data name="BH" xml:space="preserve"><value>Բահրեյն</value></data>
+	<data name="BI" xml:space="preserve"><value>Բուրունդի</value></data>
+	<data name="BJ" xml:space="preserve"><value>Բենին</value></data>
+	<data name="BL" xml:space="preserve"><value>Սեն Բարտելմի</value></data>
+	<data name="BM" xml:space="preserve"><value>Բերմուդներ</value></data>
+	<data name="BN" xml:space="preserve"><value>Բրունեյ</value></data>
+	<data name="BO" xml:space="preserve"><value>Բոլիվիա</value></data>
+	<data name="BQ" xml:space="preserve"><value>Կարիբյան Նիդեռլանդներ</value></data>
+	<data name="BR" xml:space="preserve"><value>Բրազիլիա</value></data>
+	<data name="BS" xml:space="preserve"><value>Բահամաներ</value></data>
+	<data name="BT" xml:space="preserve"><value>Բութան</value></data>
+	<data name="BV" xml:space="preserve"><value>Բուվե կղզի</value></data>
+	<data name="BW" xml:space="preserve"><value>Բոթսվանա</value></data>
+	<data name="BY" xml:space="preserve"><value>Բելառուս</value></data>
+	<data name="BZ" xml:space="preserve"><value>Բելիզ</value></data>
+	<data name="CA" xml:space="preserve"><value>Կանադա</value></data>
+	<data name="CC" xml:space="preserve"><value>Կոկոսյան (Քիլինգ) կղզիներ</value></data>
+	<data name="CD" xml:space="preserve"><value>Կոնգո - Կինշասա</value></data>
+	<data name="CF" xml:space="preserve"><value>Կենտրոնական Աֆրիկյան Հանրապետություն</value></data>
+	<data name="CG" xml:space="preserve"><value>Կոնգո - Բրազավիլ</value></data>
+	<data name="CH" xml:space="preserve"><value>Շվեյցարիա</value></data>
+	<data name="CI" xml:space="preserve"><value>Կոտ դ’Իվուար</value></data>
+	<data name="CK" xml:space="preserve"><value>Կուկի կղզիներ</value></data>
+	<data name="CL" xml:space="preserve"><value>Չիլի</value></data>
+	<data name="CM" xml:space="preserve"><value>Կամերուն</value></data>
+	<data name="CN" xml:space="preserve"><value>Չինաստան</value></data>
+	<data name="CO" xml:space="preserve"><value>Կոլումբիա</value></data>
+	<data name="CR" xml:space="preserve"><value>Կոստա Ռիկա</value></data>
+	<data name="CU" xml:space="preserve"><value>Կուբա</value></data>
+	<data name="CV" xml:space="preserve"><value>Կաբո Վերդե</value></data>
+	<data name="CW" xml:space="preserve"><value>Կյուրասաո</value></data>
+	<data name="CX" xml:space="preserve"><value>Սուրբ Ծննդյան կղզի</value></data>
+	<data name="CY" xml:space="preserve"><value>Կիպրոս</value></data>
+	<data name="CZ" xml:space="preserve"><value>Չեխիա</value></data>
+	<data name="DE" xml:space="preserve"><value>Գերմանիա</value></data>
+	<data name="DJ" xml:space="preserve"><value>Ջիբութի</value></data>
+	<data name="DK" xml:space="preserve"><value>Դանիա</value></data>
+	<data name="DM" xml:space="preserve"><value>Դոմինիկա</value></data>
+	<data name="DO" xml:space="preserve"><value>Դոմինիկյան Հանրապետություն</value></data>
+	<data name="DZ" xml:space="preserve"><value>Ալժիր</value></data>
+	<data name="EC" xml:space="preserve"><value>Էկվադոր</value></data>
+	<data name="EE" xml:space="preserve"><value>Էստոնիա</value></data>
+	<data name="EG" xml:space="preserve"><value>Եգիպտոս</value></data>
+	<data name="EH" xml:space="preserve"><value>Արևմտյան Սահարա</value></data>
+	<data name="ER" xml:space="preserve"><value>Էրիթրեա</value></data>
+	<data name="ES" xml:space="preserve"><value>Իսպանիա</value></data>
+	<data name="ET" xml:space="preserve"><value>Եթովպիա</value></data>
+	<data name="FI" xml:space="preserve"><value>Ֆինլանդիա</value></data>
+	<data name="FJ" xml:space="preserve"><value>Ֆիջի</value></data>
+	<data name="FK" xml:space="preserve"><value>Ֆոլքլենդյան կղզիներ</value></data>
+	<data name="FM" xml:space="preserve"><value>Միկրոնեզիա</value></data>
+	<data name="FO" xml:space="preserve"><value>Ֆարերյան կղզիներ</value></data>
+	<data name="FR" xml:space="preserve"><value>Ֆրանսիա</value></data>
+	<data name="GA" xml:space="preserve"><value>Գաբոն</value></data>
+	<data name="GB" xml:space="preserve"><value>Միացյալ Թագավորություն</value></data>
+	<data name="GD" xml:space="preserve"><value>Գրենադա</value></data>
+	<data name="GE" xml:space="preserve"><value>Վրաստան</value></data>
+	<data name="GF" xml:space="preserve"><value>Ֆրանսիական Գվիանա</value></data>
+	<data name="GG" xml:space="preserve"><value>Գերնսի</value></data>
+	<data name="GH" xml:space="preserve"><value>Գանա</value></data>
+	<data name="GI" xml:space="preserve"><value>Ջիբրալթար</value></data>
+	<data name="GL" xml:space="preserve"><value>Գրենլանդիա</value></data>
+	<data name="GM" xml:space="preserve"><value>Գամբիա</value></data>
+	<data name="GN" xml:space="preserve"><value>Գվինեա</value></data>
+	<data name="GP" xml:space="preserve"><value>Գվադելուպա</value></data>
+	<data name="GQ" xml:space="preserve"><value>Հասարակածային Գվինեա</value></data>
+	<data name="GR" xml:space="preserve"><value>Հունաստան</value></data>
+	<data name="GS" xml:space="preserve"><value>Հարավային Ջորջիա և Հարավային Սենդվիչյան կղզիներ</value></data>
+	<data name="GT" xml:space="preserve"><value>Գվատեմալա</value></data>
+	<data name="GU" xml:space="preserve"><value>Գուամ</value></data>
+	<data name="GW" xml:space="preserve"><value>Գվինեա-Բիսսաու</value></data>
+	<data name="GY" xml:space="preserve"><value>Գայանա</value></data>
+	<data name="HK" xml:space="preserve"><value>Հոնկոնգի ՀՎՇ</value></data>
+	<data name="HM" xml:space="preserve"><value>Հերդ կղզի և ՄակԴոնալդի կղզիներ</value></data>
+	<data name="HN" xml:space="preserve"><value>Հոնդուրաս</value></data>
+	<data name="HR" xml:space="preserve"><value>Խորվաթիա</value></data>
+	<data name="HT" xml:space="preserve"><value>Հայիթի</value></data>
+	<data name="HU" xml:space="preserve"><value>Հունգարիա</value></data>
+	<data name="ID" xml:space="preserve"><value>Ինդոնեզիա</value></data>
+	<data name="IE" xml:space="preserve"><value>Իռլանդիա</value></data>
+	<data name="IL" xml:space="preserve"><value>Իսրայել</value></data>
+	<data name="IM" xml:space="preserve"><value>Մեն կղզի</value></data>
+	<data name="IN" xml:space="preserve"><value>Հնդկաստան</value></data>
+	<data name="IO" xml:space="preserve"><value>Բրիտանական Տարածք Հնդկական Օվկիանոսում</value></data>
+	<data name="IQ" xml:space="preserve"><value>Իրաք</value></data>
+	<data name="IR" xml:space="preserve"><value>Իրան</value></data>
+	<data name="IS" xml:space="preserve"><value>Իսլանդիա</value></data>
+	<data name="IT" xml:space="preserve"><value>Իտալիա</value></data>
+	<data name="JE" xml:space="preserve"><value>Ջերսի</value></data>
+	<data name="JM" xml:space="preserve"><value>Ճամայկա</value></data>
+	<data name="JO" xml:space="preserve"><value>Հորդանան</value></data>
+	<data name="JP" xml:space="preserve"><value>Ճապոնիա</value></data>
+	<data name="KE" xml:space="preserve"><value>Քենիա</value></data>
+	<data name="KG" xml:space="preserve"><value>Ղրղզստան</value></data>
+	<data name="KH" xml:space="preserve"><value>Կամբոջա</value></data>
+	<data name="KI" xml:space="preserve"><value>Կիրիբատի</value></data>
+	<data name="KM" xml:space="preserve"><value>Կոմորյան կղզիներ</value></data>
+	<data name="KN" xml:space="preserve"><value>Սենտ Քիտս և Նևիս</value></data>
+	<data name="KP" xml:space="preserve"><value>Հյուսիսային Կորեա</value></data>
+	<data name="KR" xml:space="preserve"><value>Հարավային Կորեա</value></data>
+	<data name="KW" xml:space="preserve"><value>Քուվեյթ</value></data>
+	<data name="KY" xml:space="preserve"><value>Կայմանյան կղզիներ</value></data>
+	<data name="KZ" xml:space="preserve"><value>Ղազախստան</value></data>
+	<data name="LA" xml:space="preserve"><value>Լաոս</value></data>
+	<data name="LB" xml:space="preserve"><value>Լիբանան</value></data>
+	<data name="LC" xml:space="preserve"><value>Սենթ Լյուսիա</value></data>
+	<data name="LI" xml:space="preserve"><value>Լիխտենշտեյն</value></data>
+	<data name="LK" xml:space="preserve"><value>Շրի Լանկա</value></data>
+	<data name="LR" xml:space="preserve"><value>Լիբերիա</value></data>
+	<data name="LS" xml:space="preserve"><value>Լեսոտո</value></data>
+	<data name="LT" xml:space="preserve"><value>Լիտվա</value></data>
+	<data name="LU" xml:space="preserve"><value>Լյուքսեմբուրգ</value></data>
+	<data name="LV" xml:space="preserve"><value>Լատվիա</value></data>
+	<data name="LY" xml:space="preserve"><value>Լիբիա</value></data>
+	<data name="MA" xml:space="preserve"><value>Մարոկկո</value></data>
+	<data name="MC" xml:space="preserve"><value>Մոնակո</value></data>
+	<data name="MD" xml:space="preserve"><value>Մոլդովա</value></data>
+	<data name="ME" xml:space="preserve"><value>Չեռնոգորիա</value></data>
+	<data name="MF" xml:space="preserve"><value>Սեն Մարտեն</value></data>
+	<data name="MG" xml:space="preserve"><value>Մադագասկար</value></data>
+	<data name="MH" xml:space="preserve"><value>Մարշալյան կղզիներ</value></data>
+	<data name="MK" xml:space="preserve"><value>Հյուսիսային Մակեդոնիա</value></data>
+	<data name="ML" xml:space="preserve"><value>Մալի</value></data>
+	<data name="MM" xml:space="preserve"><value>Մյանմա (Բիրմա)</value></data>
+	<data name="MN" xml:space="preserve"><value>Մոնղոլիա</value></data>
+	<data name="MO" xml:space="preserve"><value>Չինաստանի Մակաո ՀՎՇ</value></data>
+	<data name="MP" xml:space="preserve"><value>Հյուսիսային Մարիանյան կղզիներ</value></data>
+	<data name="MQ" xml:space="preserve"><value>Մարտինիկա</value></data>
+	<data name="MR" xml:space="preserve"><value>Մավրիտանիա</value></data>
+	<data name="MS" xml:space="preserve"><value>Մոնսեռատ</value></data>
+	<data name="MT" xml:space="preserve"><value>Մալթա</value></data>
+	<data name="MU" xml:space="preserve"><value>Մավրիկիոս</value></data>
+	<data name="MV" xml:space="preserve"><value>Մալդիվներ</value></data>
+	<data name="MW" xml:space="preserve"><value>Մալավի</value></data>
+	<data name="MX" xml:space="preserve"><value>Մեքսիկա</value></data>
+	<data name="MY" xml:space="preserve"><value>Մալայզիա</value></data>
+	<data name="MZ" xml:space="preserve"><value>Մոզամբիկ</value></data>
+	<data name="NA" xml:space="preserve"><value>Նամիբիա</value></data>
+	<data name="NC" xml:space="preserve"><value>Նոր Կալեդոնիա</value></data>
+	<data name="NE" xml:space="preserve"><value>Նիգեր</value></data>
+	<data name="NF" xml:space="preserve"><value>Նորֆոլկ կղզի</value></data>
+	<data name="NG" xml:space="preserve"><value>Նիգերիա</value></data>
+	<data name="NI" xml:space="preserve"><value>Նիկարագուա</value></data>
+	<data name="NL" xml:space="preserve"><value>Նիդեռլանդներ</value></data>
+	<data name="NO" xml:space="preserve"><value>Նորվեգիա</value></data>
+	<data name="NP" xml:space="preserve"><value>Նեպալ</value></data>
+	<data name="NR" xml:space="preserve"><value>Նաուրու</value></data>
+	<data name="NU" xml:space="preserve"><value>Նիուե</value></data>
+	<data name="NZ" xml:space="preserve"><value>Նոր Զելանդիա</value></data>
+	<data name="OM" xml:space="preserve"><value>Օման</value></data>
+	<data name="PA" xml:space="preserve"><value>Պանամա</value></data>
+	<data name="PE" xml:space="preserve"><value>Պերու</value></data>
+	<data name="PF" xml:space="preserve"><value>Ֆրանսիական Պոլինեզիա</value></data>
+	<data name="PG" xml:space="preserve"><value>Պապուա Նոր Գվինեա</value></data>
+	<data name="PH" xml:space="preserve"><value>Ֆիլիպիններ</value></data>
+	<data name="PK" xml:space="preserve"><value>Պակիստան</value></data>
+	<data name="PL" xml:space="preserve"><value>Լեհաստան</value></data>
+	<data name="PM" xml:space="preserve"><value>Սեն Պիեռ և Միքելոն</value></data>
+	<data name="PN" xml:space="preserve"><value>Պիտկեռն կղզիներ</value></data>
+	<data name="PR" xml:space="preserve"><value>Պուերտո Ռիկո</value></data>
+	<data name="PS" xml:space="preserve"><value>Պաղեստինյան տարածքներ</value></data>
+	<data name="PT" xml:space="preserve"><value>Պորտուգալիա</value></data>
+	<data name="PW" xml:space="preserve"><value>Պալաու</value></data>
+	<data name="PY" xml:space="preserve"><value>Պարագվայ</value></data>
+	<data name="QA" xml:space="preserve"><value>Կատար</value></data>
+	<data name="RE" xml:space="preserve"><value>Ռեյունիոն</value></data>
+	<data name="RO" xml:space="preserve"><value>Ռումինիա</value></data>
+	<data name="RS" xml:space="preserve"><value>Սերբիա</value></data>
+	<data name="RU" xml:space="preserve"><value>Ռուսաստան</value></data>
+	<data name="RW" xml:space="preserve"><value>Ռուանդա</value></data>
+	<data name="SA" xml:space="preserve"><value>Սաուդյան Արաբիա</value></data>
+	<data name="SB" xml:space="preserve"><value>Սողոմոնյան կղզիներ</value></data>
+	<data name="SC" xml:space="preserve"><value>Սեյշելներ</value></data>
+	<data name="SD" xml:space="preserve"><value>Սուդան</value></data>
+	<data name="SE" xml:space="preserve"><value>Շվեդիա</value></data>
+	<data name="SG" xml:space="preserve"><value>Սինգապուր</value></data>
+	<data name="SH" xml:space="preserve"><value>Սուրբ Հեղինեի կղզի</value></data>
+	<data name="SI" xml:space="preserve"><value>Սլովենիա</value></data>
+	<data name="SJ" xml:space="preserve"><value>Սվալբարդ և Յան Մայեն</value></data>
+	<data name="SK" xml:space="preserve"><value>Սլովակիա</value></data>
+	<data name="SL" xml:space="preserve"><value>Սիեռա Լեոնե</value></data>
+	<data name="SM" xml:space="preserve"><value>Սան Մարինո</value></data>
+	<data name="SN" xml:space="preserve"><value>Սենեգալ</value></data>
+	<data name="SO" xml:space="preserve"><value>Սոմալի</value></data>
+	<data name="SR" xml:space="preserve"><value>Սուրինամ</value></data>
+	<data name="SS" xml:space="preserve"><value>Հարավային Սուդան</value></data>
+	<data name="ST" xml:space="preserve"><value>Սան Տոմե և Փրինսիպի</value></data>
+	<data name="SV" xml:space="preserve"><value>Սալվադոր</value></data>
+	<data name="SX" xml:space="preserve"><value>Սինտ Մարտեն</value></data>
+	<data name="SY" xml:space="preserve"><value>Սիրիա</value></data>
+	<data name="SZ" xml:space="preserve"><value>Սվազիլենդ</value></data>
+	<data name="TC" xml:space="preserve"><value>Թըրքս և Կայկոս կղզիներ</value></data>
+	<data name="TD" xml:space="preserve"><value>Չադ</value></data>
+	<data name="TF" xml:space="preserve"><value>Ֆրանսիական Հարավային Տարածքներ</value></data>
+	<data name="TG" xml:space="preserve"><value>Տոգո</value></data>
+	<data name="TH" xml:space="preserve"><value>Թայլանդ</value></data>
+	<data name="TJ" xml:space="preserve"><value>Տաջիկստան</value></data>
+	<data name="TK" xml:space="preserve"><value>Տոկելաու</value></data>
+	<data name="TL" xml:space="preserve"><value>Թիմոր Լեշտի</value></data>
+	<data name="TM" xml:space="preserve"><value>Թուրքմենստան</value></data>
+	<data name="TN" xml:space="preserve"><value>Թունիս</value></data>
+	<data name="TO" xml:space="preserve"><value>Տոնգա</value></data>
+	<data name="TR" xml:space="preserve"><value>Թուրքիա</value></data>
+	<data name="TT" xml:space="preserve"><value>Տրինիդադ և Տոբագո</value></data>
+	<data name="TV" xml:space="preserve"><value>Տուվալու</value></data>
+	<data name="TW" xml:space="preserve"><value>Թայվան</value></data>
+	<data name="TZ" xml:space="preserve"><value>Տանզանիա</value></data>
+	<data name="UA" xml:space="preserve"><value>Ուկրաինա</value></data>
+	<data name="UG" xml:space="preserve"><value>Ուգանդա</value></data>
+	<data name="UM" xml:space="preserve"><value>Արտաքին կղզիներ (ԱՄՆ)</value></data>
+	<data name="US" xml:space="preserve"><value>Միացյալ Նահանգներ</value></data>
+	<data name="UY" xml:space="preserve"><value>Ուրուգվայ</value></data>
+	<data name="UZ" xml:space="preserve"><value>Ուզբեկստան</value></data>
+	<data name="VA" xml:space="preserve"><value>Վատիկան</value></data>
+	<data name="VC" xml:space="preserve"><value>Սենթ Վինսենթ և Գրենադիններ</value></data>
+	<data name="VE" xml:space="preserve"><value>Վենեսուելա</value></data>
+	<data name="VG" xml:space="preserve"><value>Բրիտանական Վիրջինյան կղզիներ</value></data>
+	<data name="VI" xml:space="preserve"><value>ԱՄՆ Վիրջինյան կղզիներ</value></data>
+	<data name="VN" xml:space="preserve"><value>Վիետնամ</value></data>
+	<data name="VU" xml:space="preserve"><value>Վանուատու</value></data>
+	<data name="WF" xml:space="preserve"><value>Ուոլիս և Ֆուտունա</value></data>
+	<data name="WS" xml:space="preserve"><value>Սամոա</value></data>
+	<data name="XK" xml:space="preserve"><value>Կոսովո</value></data>
+	<data name="YE" xml:space="preserve"><value>Եմեն</value></data>
+	<data name="YT" xml:space="preserve"><value>Մայոտ</value></data>
+	<data name="ZA" xml:space="preserve"><value>Հարավաֆրիկյան Հանրապետություն</value></data>
+	<data name="ZM" xml:space="preserve"><value>Զամբիա</value></data>
+	<data name="ZW" xml:space="preserve"><value>Զիմբաբվե</value></data>
+</root>
