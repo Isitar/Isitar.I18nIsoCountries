@@ -7,7 +7,7 @@
         <Authors>Pascal Lüscher</Authors>
         <Company>Isitar</Company>
         <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
-        <PackageProjectUrl></PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/Isitar/Isitar.I18nIsoCountries</PackageProjectUrl>
     </PropertyGroup>
 
     <ItemGroup>
