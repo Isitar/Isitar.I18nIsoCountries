@@ -7,6 +7,9 @@ namespace Isitar.I18nIsoCountries
     {
         public static string Translated(string alpha2)
         {
+            if (null == alpha2) { 
+                return null; 
+            }
             return alpha2.ToLower() switch
             {
                 "ad" => CountryNames.AD,
